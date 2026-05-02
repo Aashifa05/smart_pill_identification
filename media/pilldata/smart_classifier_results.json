@@ -1,0 +1,169 @@
+{
+  "total_tested": 18,
+  "correct": 0,
+  "accuracy": 0.0,
+  "results": [
+    {
+      "filename": "Amoxicillin 500 MG (1) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2024620309472084,
+      "correct": false,
+      "has_imprint": false,
+      "reason": "Identified based on Atomoxetine 25 MG (imprint analysis: shape/color/texture)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (1) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2024620309472084,
+      "correct": false,
+      "has_imprint": false,
+      "reason": "Identified based on Atomoxetine 25 MG (imprint analysis: shape/color/texture)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (1).jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2024620309472084,
+      "correct": false,
+      "has_imprint": false,
+      "reason": "Identified based on Atomoxetine 25 MG (imprint analysis: shape/color/texture)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (10) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.35175269842147827,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (10) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.35175269842147827,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (10).jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.35175269842147827,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (11) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.30044171661138536,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (11) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.30044171661138536,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (11).jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.30044171661138536,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (12) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2019715815782547,
+      "correct": false,
+      "has_imprint": false,
+      "reason": "Identified based on Atomoxetine 25 MG (imprint analysis: shape/color/texture)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (12) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2019715815782547,
+      "correct": false,
+      "has_imprint": false,
+      "reason": "Identified based on Atomoxetine 25 MG (imprint analysis: shape/color/texture)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (12).jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2019715815782547,
+      "correct": false,
+      "has_imprint": false,
+      "reason": "Identified based on Atomoxetine 25 MG (imprint analysis: shape/color/texture)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (13) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2035134270787239,
+      "correct": false,
+      "has_imprint": false,
+      "reason": "Identified based on Atomoxetine 25 MG (imprint analysis: shape/color/texture)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (13) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2024620309472084,
+      "correct": false,
+      "has_imprint": false,
+      "reason": "Identified based on Atomoxetine 25 MG (imprint analysis: shape/color/texture)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (14) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.30196539014577867,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (15) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.3019590795040131,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (16) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.30047730803489686,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    },
+    {
+      "filename": "Amoxicillin 500 MG (17) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.3019517108798027,
+      "correct": false,
+      "has_imprint": true,
+      "reason": "Identified based on Atomoxetine 25 MG (with imprint)"
+    }
+  ]
+}

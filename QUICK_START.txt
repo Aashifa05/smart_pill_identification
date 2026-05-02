@@ -1,0 +1,140 @@
+# ⚡ QUICK START - Pill Classifier Training & Evaluation
+
+## 🚀 Get Model Running (Pick One)
+
+### Option 1: FASTEST - 2 minutes (for testing)
+```bash
+python minimal_train_model.py
+```
+- ✅ Creates model file
+- ❌ Accuracy ~5% (3 epochs only)
+- 👍 Good for testing infrastructure
+
+### Option 2: FAST - 20 minutes (baseline)
+```bash
+python quick_train_model.py
+```
+- ✅ Good starting point
+- 🎯 Expected accuracy: 30-50%
+- ⏱️ Runs 20 epochs
+- 👍 **RECOMMENDED** for first run
+
+### Option 3: BEST - 60+ minutes (production)
+```bash
+python train_feature_learning.py
+```
+- ✅ Best accuracy: 70-85% expected
+- ⏱️ Runs 30-50 epochs with augmentation
+- 👍 For deployment
+
+---
+
+## 📊 Check Training Progress
+
+```bash
+# Check if model exists
+python check_training_progress.py
+
+# Example output:
+# ✓ Model file (.keras): EXISTS
+# ✓ Metadata file: EXISTS
+# ✓ Classes: 22
+```
+
+---
+
+## 🔍 Evaluate Your Model
+
+Once training completes:
+
+```bash
+python simple_diagnostic.py
+```
+
+Gets you:
+- ✅ Overall accuracy
+- ✅ Per-class accuracy
+- ✅ Confidence distribution
+- ✅ Safety verdict (SAFE/CAUTION/RETRAIN)
+
+---
+
+## 📁 Data Structure
+
+Your current setup:
+```
+media/pilldata/train/
+├── Amoxicillin 500 MG (1).jpg
+├── Amoxicillin 500 MG (2).jpg
+├── apixaban 2.5 MG (1).jpg
+├── 0002-3228_0_1.jpg          ← NDC codes work too
+└── ... (1988 total images)
+
+✅ 22 unique pill types automatically detected
+```
+
+---
+
+## 🎯 Expected Results
+
+| Script | Time | Accuracy | Use Case |
+|--------|------|----------|----------|
+| minimal_train_model.py | 2 min | ~5% | ✅ Test pipeline |
+| quick_train_model.py | 20 min | ~40% | 👍 Baseline model |
+| train_feature_learning.py | 60+ min | ~75% | 🏆 Production |
+
+---
+
+## 💾 Output Files
+
+After training, you get:
+- `media/pilldata/model_feature_learning.keras` (5MB model file)
+- `media/pilldata/model_feature_learning_metadata.json` (class info)
+- `training_history.png` (performance plot)
+
+---
+
+## ⚡ Full Workflow (Copy & Paste)
+
+```bash
+# 1. Quick test (2 min)
+python minimal_train_model.py && python check_training_progress.py
+
+# 2. If working, train baseline (20 min)
+python quick_train_model.py
+
+# 3. Evaluate results
+python simple_diagnostic.py
+
+# 4. For production (run in separate terminal)
+python train_feature_learning.py
+```
+
+---
+
+## 🛠️ Common Issues & Fixes
+
+| Problem | Fix |
+|---------|-----|
+| "Module not found" | `pip install tensorflow==2.14.0 opencv-python==4.8.0.76` |
+| OOM (out of memory) | Use `minimal_train_model.py` instead |
+| Slow training | Use `MobileNetV3Small` (already in quick/minimal) |
+| No images loaded | Run `test_data_loading.py` to debug |
+
+---
+
+## 📞 File Reference
+
+| What | File |
+|------|------|
+| Train 3 epochs (test) | `minimal_train_model.py` |
+| Train 20 epochs (quick) | `quick_train_model.py` |
+| Train 30+ epochs (best) | `train_feature_learning.py` |
+| Check if done | `check_training_progress.py` |
+| Evaluate model | `simple_diagnostic.py` |
+| Debug data loading | `test_data_loading.py` |
+| Status info | `SESSION_COMPLETION_SUMMARY.md` |
+
+---
+
+**Status**: ✅ System ready | Model training in progress | Check back in 20 minutes

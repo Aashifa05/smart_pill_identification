@@ -1,0 +1,26 @@
+                              precision    recall  f1-score   support
+
+          Amoxicillin 500 MG       1.00      1.00      1.00        20
+             apixaban 2.5 MG       0.73      0.90      0.81        21
+            aprepitant 80 MG       0.96      0.92      0.94        25
+           Atomoxetine 25 MG       0.95      0.95      0.95        22
+          benzonatate 100 MG       1.00      1.00      1.00        21
+       Calcitriol 0.00025 MG       0.91      1.00      0.95        20
+         carvedilol 3.125 MG       0.88      1.00      0.93        21
+            celecoxib 200 MG       1.00      0.95      0.97        19
+            duloxetine 30 MG       0.95      1.00      0.98        20
+           eltrombopag 25 MG       0.88      0.74      0.80        19
+           montelukast 10 MG       1.00      1.00      1.00        19
+mycophenolate mofetil 250 MG       0.96      1.00      0.98        22
+           Oseltamivir 45 MG       0.90      0.95      0.93        20
+          pantoprazole 40 MG       1.00      1.00      1.00        18
+           pitavastatin 1 MG       1.00      0.94      0.97        17
+             prasugrel 10 MG       1.00      1.00      1.00        21
+               Ramipril 5 MG       1.00      0.93      0.97        15
+            saxagliptin 5 MG       1.00      0.94      0.97        18
+           sitagliptin 50 MG       0.75      0.57      0.65        21
+              tadalafil 5 MG       1.00      1.00      1.00        19
+
+                    accuracy                           0.94       398
+                   macro avg       0.94      0.94      0.94       398
+                weighted avg       0.94      0.94      0.94       398

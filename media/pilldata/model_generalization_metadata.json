@@ -1,0 +1,29 @@
+{
+  "class_names": [
+    "aspirin",
+    "ibuprofen"
+  ],
+  "num_classes": 2,
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "training_date": "2026-02-17T18:23:45.751911",
+  "test_accuracy": 0.5,
+  "test_loss": 2.935319423675537,
+  "training_info": {
+    "epochs_trained": 2,
+    "batch_size": 32,
+    "total_images": 12,
+    "train_images": 7,
+    "val_images": 3,
+    "test_images": 2
+  },
+  "model_info": {
+    "base_model": "MobileNetV3Large",
+    "regularization": "L1/L2 + Dropout + Batch Normalization",
+    "augmentation": "Rotation, Zoom, Brightness, Color shift",
+    "focus": "Generalization to unseen real-world images"
+  }
+}

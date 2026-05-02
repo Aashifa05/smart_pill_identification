@@ -1,0 +1,4 @@
+Medication Advisor Evaluation
+============================================================
+Response Accuracy: 1.000000 (100.00%)
+BLEU Score: 0.538653

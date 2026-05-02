@@ -1,0 +1,651 @@
+{
+  "total_tested": 28,
+  "correct": 0,
+  "accuracy": 0.0,
+  "results": [
+    {
+      "filename": "Amoxicillin 500 MG (1) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.1024620309472084,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.1024620309472084
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08919017016887665
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06364770233631134
+        ]
+      ],
+      "decision": "unknown",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (1) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.1024620309472084,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.1024620309472084
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08919017016887665
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06364770233631134
+        ]
+      ],
+      "decision": "unknown",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (1).jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.1024620309472084,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.1024620309472084
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08919017016887665
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06364770233631134
+        ]
+      ],
+      "decision": "unknown",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (10) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.20175269842147828,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10175269842147827
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08915897458791733
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06397674232721329
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (10) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.20175269842147828,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10175269842147827
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08915897458791733
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06397674232721329
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (10).jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.20175269842147828,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10175269842147827
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08915897458791733
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06397674232721329
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (11) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.25044171661138537,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10044171661138535
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.0887114554643631
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06387491524219513
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (11) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.25044171661138537,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10044171661138535
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.0887114554643631
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06387491524219513
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (11).jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.25044171661138537,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10044171661138535
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.0887114554643631
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06387491524219513
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (12) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.1019715815782547,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.1019715815782547
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08915872871875763
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06344430148601532
+        ]
+      ],
+      "decision": "unknown",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (12) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.1019715815782547,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.1019715815782547
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08915872871875763
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06344430148601532
+        ]
+      ],
+      "decision": "unknown",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (12).jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.1019715815782547,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.1019715815782547
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08915872871875763
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06344430148601532
+        ]
+      ],
+      "decision": "unknown",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (13) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2035134270787239,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10351342707872391
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.09015592187643051
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06437861919403076
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (13) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.1024620309472084,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.1024620309472084
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08919017016887665
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06364770233631134
+        ]
+      ],
+      "decision": "unknown",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (14) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2519653901457787,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10196539014577866
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08968833088874817
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06374919414520264
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (15) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2519590795040131,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10195907950401306
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08968248218297958
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06374550610780716
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (16) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2504773080348969,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10047730803489685
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08872527629137039
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06387270241975784
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (17) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2519517108798027,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.1019517108798027
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08968263864517212
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06374376267194748
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (18) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.25048510879278185,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10048510879278183
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08872855454683304
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06387104839086533
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (19) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.25191386938095095,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10191386938095093
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08965685218572617
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06373144686222076
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (2) - Copy - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.10246643424034119,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10246643424034119
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08933711796998978
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06338343024253845
+        ]
+      ],
+      "decision": "unknown",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (2) - Copy - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.10246643424034119,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10246643424034119
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08933711796998978
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06338343024253845
+        ]
+      ],
+      "decision": "unknown",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (2) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2519653901457787,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10196539014577866
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08968833088874817
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06374919414520264
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (2).jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2519653901457787,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10196539014577866
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08968833088874817
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06374919414520264
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (20) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.2504852429032326,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10048524290323257
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08873236924409866
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06384848058223724
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (21) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.20227690637111664,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10227690637111664
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08954412490129471
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06377580761909485
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (22) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.20175269842147828,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10175269842147827
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.08915897458791733
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06397674232721329
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": false,
+      "correct": false
+    },
+    {
+      "filename": "Amoxicillin 500 MG (23) - Copy.jpg",
+      "true_class": "Amoxicillin 500 MG",
+      "predicted": "Atomoxetine 25 MG",
+      "confidence": 0.25044171661138537,
+      "top_3": [
+        [
+          "Atomoxetine 25 MG",
+          0.10044171661138535
+        ],
+        [
+          "Calcitriol 0.00025 MG",
+          0.0887114554643631
+        ],
+        [
+          "duloxetine 30 MG",
+          0.06387491524219513
+        ]
+      ],
+      "decision": "classified",
+      "has_imprint": true,
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,1312 @@
+INFO - 2026-03-07 12:44:16 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO - 2026-03-07 12:44:56 - django.server - "GET / HTTP/1.1" 200 11111
+WARNING - 2026-03-07 12:44:56 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:44:56 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-03-07 12:44:56 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:44:56 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:44:56 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:44:56 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:44:56 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:44:56 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-03-07 12:45:14 - django.server - "GET /adminLoginForm HTTP/1.1" 200 11490
+WARNING - 2026-03-07 12:45:14 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:45:14 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:45:14 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:45:14 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:45:14 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:45:14 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:45:16 - django.server - "GET /userLoginForm HTTP/1.1" 200 11483
+WARNING - 2026-03-07 12:45:16 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:45:16 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:45:16 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:45:16 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:45:16 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:45:16 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:45:25 - django.server - "POST /userLoginCheck HTTP/1.1" 200 8648
+WARNING - 2026-03-07 12:45:25 - django.server - "GET /assets/img/User.jpg HTTP/1.1" 404 1850
+WARNING - 2026-03-07 12:45:25 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:45:25 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:45:25 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:45:25 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:45:25 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:45:25 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:45:28 - django.server - "GET /prediction HTTP/1.1" 200 22571
+WARNING - 2026-03-07 12:45:28 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:45:28 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:45:28 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:45:28 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:45:28 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:45:28 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:45:57 - pill_system - Image uploaded successfully - File: Calcitriol 0.00025 MG (3).jpg, Size: 327457 bytes
+INFO - 2026-03-07 12:45:57 - pill_system - File type validation passed - File: Calcitriol 0.00025 MG (3).jpg, Type: jpg
+INFO - 2026-03-07 12:45:57 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Calcitriol 0.00025 MG (3).jpg
+INFO - 2026-03-07 12:45:57 - pill_system - Image preprocessing started - File: Calcitriol 0.00025 MG (3).jpg
+INFO - 2026-03-07 12:45:57 - pill_system - Model prediction started - File: Calcitriol 0.00025 MG (3).jpg, Model: MobileNetV3Large
+INFO - 2026-03-07 12:45:57 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+INFO - 2026-03-07 12:45:57 - Users.utility.requirement - [CACHE] Loading model into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras
+INFO - 2026-03-07 12:45:59 - Users.utility.requirement - [CACHE] Model cached successfully
+INFO - 2026-03-07 12:45:59 - Users.utility.requirement - [CACHE] Loading metadata into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_metadata.json
+INFO - 2026-03-07 12:45:59 - Users.utility.requirement - [CACHE] Metadata cached successfully
+DEBUG - 2026-03-07 12:45:59 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-03-07 12:45:59 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Calcitriol 0.00025 MG (3).jpg
+DEBUG - 2026-03-07 12:45:59 - Users.utility.requirement - [PREPROCESS] Original image size: (1024, 768)
+DEBUG - 2026-03-07 12:45:59 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-03-07 12:45:59 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.8980]
+INFO - 2026-03-07 12:45:59 - pill_system - Image preprocessing completed - File: Calcitriol 0.00025 MG (3).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-03-07 12:45:59 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-03-07 12:46:05 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-03-07 12:46:05 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-03-07 12:46:05 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.002074, max: 0.623451, mean: 0.050000, std: 0.132603
+INFO - 2026-03-07 12:46:05 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Calcitriol 0.00025 MG', 0.6234511137008667), ('saxagliptin 5 MG', 0.05442167818546295), ('eltrombopag 25 MG', 0.05078508332371712)]
+INFO - 2026-03-07 12:46:05 - Users.utility.requirement - [PREDICTION] Predicted: Calcitriol 0.00025 MG
+INFO - 2026-03-07 12:46:05 - Users.utility.requirement - [PREDICTION] Confidence: 62.35% (Threshold: 50%)
+INFO - 2026-03-07 12:46:05 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-03-07 12:46:05 - Users.utility.requirement - [UNLABELED] Checking if Calcitriol 0.00025 MG is an unlabeled pill...
+DEBUG - 2026-03-07 12:46:05 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-03-07 12:46:05 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for Calcitriol 0.00025 MG
+INFO - 2026-03-07 12:46:05 - pill_system - Image preprocessing completed - File: Calcitriol 0.00025 MG (3).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-03-07 12:46:05 - pill_system - Prediction completed: Calcitriol 0.00025 MG (Confidence: 62.35%), Top 3: [{'name': 'Calcitriol 0.00025 MG', 'confidence': '62.35%'}, {'name': 'saxagliptin 5 MG', 'confidence': '5.44%'}, {'name': 'eltrombopag 25 MG', 'confidence': '5.08%'}], Processing time: N/Ams
+WARNING - 2026-03-07 12:46:05 - pill_system - Low confidence prediction - Pill: Calcitriol 0.00025 MG, Confidence: 62.35%, Below threshold: 70%
+INFO - 2026-03-07 12:46:05 - pill_system - Safety validation PASSED - Pill: Calcitriol 0.00025 MG, Details: {'is_safe': True, 'warnings': ['Confidence 62.4% below threshold 70%'], 'errors': [], 'recommendations': []}
+INFO - 2026-03-07 12:46:05 - Users.views - [MEDICAL PREDICTION] Result: Calcitriol 0.00025 MG
+INFO - 2026-03-07 12:46:05 - Users.views - [MEDICAL PREDICTION] Confidence: 62.35%
+INFO - 2026-03-07 12:46:05 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-03-07 12:46:05 - Users.views - [MEDICAL PREDICTION] Validation: True
+WARNING - 2026-03-07 12:46:05 - Users.views - [MEDICAL WARNING] Confidence 62.4% below threshold 70%
+INFO - 2026-03-07 12:46:05 - pill_system - Prediction recorded to CSV: Calcitriol 0.00025 MG
+INFO - 2026-03-07 12:46:05 - Users.views - Prediction recorded to CSV: Calcitriol 0.00025 MG
+INFO - 2026-03-07 12:46:05 - pill_system - CSV record written - File: pill_predictions.csv, Pill: Calcitriol 0.00025 MG
+INFO - 2026-03-07 12:46:05 - django.server - "POST /prediction HTTP/1.1" 200 23796
+WARNING - 2026-03-07 12:46:05 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:46:05 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:46:05 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:46:05 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:46:05 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:46:05 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:46:34 - pill_system - Image uploaded successfully - File: Smart Pill Identification System wih Medication Advisor.docx, Size: 309219 bytes
+WARNING - 2026-03-07 12:46:34 - pill_system - Invalid file type uploaded - File: Smart Pill Identification System wih Medication Advisor.docx, Type: docx, Allowed: jpg, jpeg, png, gif, bmp
+INFO - 2026-03-07 12:46:34 - django.server - "POST /prediction HTTP/1.1" 200 22571
+WARNING - 2026-03-07 12:46:34 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:46:34 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:46:34 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:46:34 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:46:34 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:46:34 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:53:50 - pill_system - Image uploaded successfully - File: test_pill.jpg, Size: 125000 bytes, User: test_user
+INFO - 2026-03-07 12:53:50 - pill_system - File type validation passed - File: test_pill.jpg, Type: jpg
+WARNING - 2026-03-07 12:53:50 - pill_system - Invalid file type uploaded - File: document.pdf, Type: pdf, Allowed: jpg, png, jpeg, gif
+ERROR - 2026-03-07 12:53:50 - pill_system - Corrupted image detected - File: corrupted.jpg, Error: cannot identify image file
+INFO - 2026-03-07 12:53:51 - pill_system - Image preprocessing started - File: test_pill.jpg
+INFO - 2026-03-07 12:53:51 - pill_system - Image preprocessing completed - File: test_pill.jpg, Steps: resize, normalization, augmentation
+INFO - 2026-03-07 12:53:51 - pill_system - Model prediction started - File: test_pill.jpg, Model: MobileNetV3Large
+INFO - 2026-03-07 12:53:51 - pill_system - Prediction completed: Paracetamol (Confidence: 92.45%), Top 3: [('Paracetamol', 0.9245), ('Ibuprofen', 0.0512), ('Aspirin', 0.0243)], Processing time: 245msms
+WARNING - 2026-03-07 12:53:51 - pill_system - Low confidence prediction - Pill: Unknown Pill, Confidence: 35.67%, Below threshold: 70%
+INFO - 2026-03-07 12:53:51 - pill_system - Safety validation PASSED - Pill: Paracetamol, Details: {'check_1': 'passed', 'check_2': 'passed'}
+INFO - 2026-03-07 12:53:51 - pill_system - CSV record written - File: pill_predictions.csv, Pill: Paracetamol
+ERROR - 2026-03-07 12:53:51 - pill_system - System error (ValueError): Test error for logging verification
+Stack trace:
+Test stack trace
+INFO - 2026-03-07 12:54:17 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO - 2026-03-07 12:54:36 - django.server - "GET / HTTP/1.1" 200 11111
+WARNING - 2026-03-07 12:54:36 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:54:36 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:54:36 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:54:36 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:54:36 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:54:36 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-03-07 12:54:36 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:54:37 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-03-07 12:54:42 - django.server - "GET /userLoginForm HTTP/1.1" 200 11483
+WARNING - 2026-03-07 12:54:42 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:54:42 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:54:42 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:54:42 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:54:42 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:54:42 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:54:50 - django.server - "POST /userLoginCheck HTTP/1.1" 200 8648
+WARNING - 2026-03-07 12:54:50 - django.server - "GET /assets/img/User.jpg HTTP/1.1" 404 1850
+WARNING - 2026-03-07 12:54:50 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:54:50 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:54:50 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:54:50 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:54:50 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:54:50 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:54:52 - django.server - "GET /prediction HTTP/1.1" 200 22571
+WARNING - 2026-03-07 12:54:52 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:54:52 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:54:52 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:54:52 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:54:52 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:54:52 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:55:31 - pill_system - Image uploaded successfully - File: prasugrel 10 MG (1).jpg, Size: 11380 bytes
+INFO - 2026-03-07 12:55:31 - pill_system - File type validation passed - File: prasugrel 10 MG (1).jpg, Type: jpg
+INFO - 2026-03-07 12:55:31 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\prasugrel 10 MG (1).jpg
+INFO - 2026-03-07 12:55:31 - pill_system - Image preprocessing started - File: prasugrel 10 MG (1).jpg
+INFO - 2026-03-07 12:55:31 - pill_system - Model prediction started - File: prasugrel 10 MG (1).jpg, Model: MobileNetV3Large
+INFO - 2026-03-07 12:55:31 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+INFO - 2026-03-07 12:55:31 - Users.utility.requirement - [CACHE] Loading model into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras
+INFO - 2026-03-07 12:55:33 - Users.utility.requirement - [CACHE] Model cached successfully
+INFO - 2026-03-07 12:55:33 - Users.utility.requirement - [CACHE] Loading metadata into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_metadata.json
+INFO - 2026-03-07 12:55:33 - Users.utility.requirement - [CACHE] Metadata cached successfully
+DEBUG - 2026-03-07 12:55:33 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-03-07 12:55:33 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\prasugrel 10 MG (1).jpg
+DEBUG - 2026-03-07 12:55:33 - Users.utility.requirement - [PREPROCESS] Original image size: (120, 96)
+DEBUG - 2026-03-07 12:55:33 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-03-07 12:55:33 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0471, 0.7098]
+INFO - 2026-03-07 12:55:33 - pill_system - Image preprocessing completed - File: prasugrel 10 MG (1).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-03-07 12:55:33 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-03-07 12:55:36 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-03-07 12:55:36 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-03-07 12:55:36 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.000367, max: 0.880087, mean: 0.050000, std: 0.190608
+INFO - 2026-03-07 12:55:36 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('prasugrel 10 MG', 0.8800869584083557), ('sitagliptin 50 MG', 0.03303035348653793), ('montelukast 10 MG', 0.02545744739472866)]
+INFO - 2026-03-07 12:55:36 - Users.utility.requirement - [PREDICTION] Predicted: prasugrel 10 MG
+INFO - 2026-03-07 12:55:36 - Users.utility.requirement - [PREDICTION] Confidence: 88.01% (Threshold: 50%)
+INFO - 2026-03-07 12:55:36 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-03-07 12:55:36 - Users.utility.requirement - [UNLABELED] Checking if prasugrel 10 MG is an unlabeled pill...
+DEBUG - 2026-03-07 12:55:36 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-03-07 12:55:36 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for prasugrel 10 MG
+INFO - 2026-03-07 12:55:36 - pill_system - Image preprocessing completed - File: prasugrel 10 MG (1).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-03-07 12:55:36 - pill_system - Prediction completed: prasugrel 10 MG (Confidence: 88.01%), Top 3: [{'name': 'prasugrel 10 MG', 'confidence': '88.01%'}, {'name': 'sitagliptin 50 MG', 'confidence': '3.30%'}, {'name': 'montelukast 10 MG', 'confidence': '2.55%'}], Processing time: N/Ams
+INFO - 2026-03-07 12:55:36 - pill_system - Safety validation PASSED - Pill: prasugrel 10 MG, Details: {'is_safe': True, 'warnings': [], 'errors': [], 'recommendations': []}
+INFO - 2026-03-07 12:55:36 - Users.views - [MEDICAL PREDICTION] Result: prasugrel 10 MG
+INFO - 2026-03-07 12:55:36 - Users.views - [MEDICAL PREDICTION] Confidence: 88.01%
+INFO - 2026-03-07 12:55:36 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-03-07 12:55:36 - Users.views - [MEDICAL PREDICTION] Validation: True
+INFO - 2026-03-07 12:55:36 - pill_system - Prediction recorded to CSV: prasugrel 10 MG
+INFO - 2026-03-07 12:55:36 - Users.views - Prediction recorded to CSV: prasugrel 10 MG
+INFO - 2026-03-07 12:55:36 - pill_system - CSV record written - File: pill_predictions.csv, Pill: prasugrel 10 MG
+INFO - 2026-03-07 12:55:36 - django.server - "POST /prediction HTTP/1.1" 200 23740
+WARNING - 2026-03-07 12:55:36 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:55:36 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:55:36 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:55:36 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:55:36 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:55:36 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-03-07 12:55:58 - pill_system - Image uploaded successfully - File: Smart Pill Identification System wih Medication Advisor.docx, Size: 309219 bytes
+WARNING - 2026-03-07 12:55:58 - pill_system - Invalid file type uploaded - File: Smart Pill Identification System wih Medication Advisor.docx, Type: docx, Allowed: jpg, jpeg, png, gif, bmp
+INFO - 2026-03-07 12:55:58 - django.server - "POST /prediction HTTP/1.1" 200 22571
+WARNING - 2026-03-07 12:55:58 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-03-07 12:55:58 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-03-07 12:55:58 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-03-07 12:55:58 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-03-07 12:55:58 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-03-07 12:55:58 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-02 16:37:55 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO - 2026-04-02 16:38:52 - django.server - "GET / HTTP/1.1" 200 11111
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/nice-select.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/font-awesome.min.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/icofont.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/slicknav.min.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/animate.min.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/datepicker.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/owl-carousel.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/magnific-popup.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/style.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/normalize.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/img/pill-identification1.jpg.jpg HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/css/responsive.css HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/img/image.jpeg HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/img/section-img.jpg HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/js/popper.min.js HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO - 2026-04-02 16:38:52 - django.server - "GET /assets/js/slicknav.min.js HTTP/1.1" 304 0
+WARNING - 2026-04-02 16:38:53 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:38:53 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-02 16:38:53 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:38:53 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:38:53 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:38:53 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+INFO - 2026-04-02 16:38:53 - django.server - "GET /assets/fonts/icofont.woff2 HTTP/1.1" 304 0
+WARNING - 2026-04-02 16:38:53 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:38:53 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-04-02 16:38:54 - django.server - "GET /userLoginForm HTTP/1.1" 200 11483
+WARNING - 2026-04-02 16:38:54 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:38:54 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:38:54 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:38:54 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:38:54 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-02 16:38:54 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+INFO - 2026-04-02 16:39:04 - django.server - "POST /userLoginCheck HTTP/1.1" 200 8648
+WARNING - 2026-04-02 16:39:04 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:39:04 - django.server - "GET /assets/img/User.jpg HTTP/1.1" 404 1850
+WARNING - 2026-04-02 16:39:05 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:39:05 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:39:05 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:39:05 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:39:05 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-02 16:39:06 - django.server - "GET /prediction HTTP/1.1" 200 22571
+WARNING - 2026-04-02 16:39:06 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:39:06 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:39:06 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:39:06 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:39:06 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:39:06 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-02 16:39:06 - django.server - "GET /assets/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 304 0
+INFO - 2026-04-02 16:39:26 - pill_system - Image uploaded successfully - File: Atomoxetine 25 MG (1).jpg, Size: 26365 bytes
+INFO - 2026-04-02 16:39:26 - pill_system - File type validation passed - File: Atomoxetine 25 MG (1).jpg, Type: jpg
+INFO - 2026-04-02 16:39:26 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Atomoxetine 25 MG (1).jpg
+INFO - 2026-04-02 16:39:27 - pill_system - Image preprocessing started - File: Atomoxetine 25 MG (1).jpg
+INFO - 2026-04-02 16:39:27 - pill_system - Model prediction started - File: Atomoxetine 25 MG (1).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:39:27 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+INFO - 2026-04-02 16:39:27 - Users.utility.requirement - [CACHE] Loading model into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras
+INFO - 2026-04-02 16:39:29 - Users.utility.requirement - [CACHE] Model cached successfully
+INFO - 2026-04-02 16:39:29 - Users.utility.requirement - [CACHE] Loading metadata into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_metadata.json
+INFO - 2026-04-02 16:39:29 - Users.utility.requirement - [CACHE] Metadata cached successfully
+DEBUG - 2026-04-02 16:39:29 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:39:29 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Atomoxetine 25 MG (1).jpg
+DEBUG - 2026-04-02 16:39:29 - Users.utility.requirement - [PREPROCESS] Original image size: (300, 225)
+DEBUG - 2026-04-02 16:39:29 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:39:29 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.8510]
+INFO - 2026-04-02 16:39:29 - pill_system - Image preprocessing completed - File: Atomoxetine 25 MG (1).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:39:29 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:39:33 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:39:33 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:39:33 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.001055, max: 0.535377, mean: 0.050000, std: 0.115339
+INFO - 2026-04-02 16:39:33 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Atomoxetine 25 MG', 0.5353773832321167), ('duloxetine 30 MG', 0.1253596693277359), ('Amoxicillin 500 MG', 0.06021551042795181)]
+INFO - 2026-04-02 16:39:33 - Users.utility.requirement - [PREDICTION] Predicted: Atomoxetine 25 MG
+INFO - 2026-04-02 16:39:33 - Users.utility.requirement - [PREDICTION] Confidence: 53.54% (Threshold: 50%)
+INFO - 2026-04-02 16:39:33 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-02 16:39:33 - Users.utility.requirement - [UNLABELED] Checking if Atomoxetine 25 MG is an unlabeled pill...
+DEBUG - 2026-04-02 16:39:33 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-02 16:39:33 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for Atomoxetine 25 MG
+INFO - 2026-04-02 16:39:33 - pill_system - Image preprocessing completed - File: Atomoxetine 25 MG (1).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:39:33 - pill_system - Prediction completed: Atomoxetine 25 MG (Confidence: 53.54%), Top 3: [{'name': 'Atomoxetine 25 MG', 'confidence': '53.54%'}, {'name': 'duloxetine 30 MG', 'confidence': '12.54%'}, {'name': 'Amoxicillin 500 MG', 'confidence': '6.02%'}], Processing time: N/Ams
+WARNING - 2026-04-02 16:39:33 - pill_system - Low confidence prediction - Pill: Atomoxetine 25 MG, Confidence: 53.54%, Below threshold: 70%
+INFO - 2026-04-02 16:39:33 - pill_system - Safety validation PASSED - Pill: Atomoxetine 25 MG, Details: {'is_safe': True, 'warnings': ['Confidence 53.5% below threshold 70%'], 'errors': [], 'recommendations': []}
+INFO - 2026-04-02 16:39:33 - Users.views - [MEDICAL PREDICTION] Result: Atomoxetine 25 MG
+INFO - 2026-04-02 16:39:33 - Users.views - [MEDICAL PREDICTION] Confidence: 53.54%
+INFO - 2026-04-02 16:39:33 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-02 16:39:33 - Users.views - [MEDICAL PREDICTION] Validation: True
+WARNING - 2026-04-02 16:39:33 - Users.views - [MEDICAL WARNING] Confidence 53.5% below threshold 70%
+INFO - 2026-04-02 16:39:33 - pill_system - Prediction recorded to CSV: Atomoxetine 25 MG
+INFO - 2026-04-02 16:39:33 - Users.views - Prediction recorded to CSV: Atomoxetine 25 MG
+INFO - 2026-04-02 16:39:33 - pill_system - CSV record written - File: pill_predictions.csv, Pill: Atomoxetine 25 MG
+INFO - 2026-04-02 16:39:33 - django.server - "POST /prediction HTTP/1.1" 200 23868
+WARNING - 2026-04-02 16:39:33 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:39:33 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:39:33 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:39:33 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:39:33 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-02 16:39:33 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+INFO - 2026-04-02 16:39:50 - django.server - "POST /api/ask_advisor/ HTTP/1.1" 200 266
+INFO - 2026-04-02 16:46:11 - pill_system - Image uploaded successfully - File: eltrombopag 25 MG (2).jpg, Size: 12630 bytes
+INFO - 2026-04-02 16:46:11 - pill_system - File type validation passed - File: eltrombopag 25 MG (2).jpg, Type: jpg
+INFO - 2026-04-02 16:46:11 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\eltrombopag 25 MG (2).jpg
+INFO - 2026-04-02 16:46:11 - pill_system - Image preprocessing started - File: eltrombopag 25 MG (2).jpg
+INFO - 2026-04-02 16:46:11 - pill_system - Model prediction started - File: eltrombopag 25 MG (2).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:46:11 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:46:11 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\eltrombopag 25 MG (2).jpg
+DEBUG - 2026-04-02 16:46:11 - Users.utility.requirement - [PREPROCESS] Original image size: (224, 224)
+DEBUG - 2026-04-02 16:46:11 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:46:11 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.8667]
+INFO - 2026-04-02 16:46:11 - pill_system - Image preprocessing completed - File: eltrombopag 25 MG (2).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.001111, max: 0.352583, mean: 0.050000, std: 0.085322
+INFO - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('apixaban 2.5 MG', 0.3525834381580353), ('pantoprazole 40 MG', 0.23872701823711395), ('carvedilol 3.125 MG', 0.05607182905077934)]
+INFO - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Predicted: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Confidence: 35.26% (Threshold: 50%)
+INFO - 2026-04-02 16:46:11 - Users.utility.requirement - [PREDICTION] Is Confident: False
+WARNING - 2026-04-02 16:46:11 - Users.utility.requirement - [SAFETY] Confidence too low (35.26%). Returning UNKNOWN.
+INFO - 2026-04-02 16:46:11 - pill_system - Image preprocessing completed - File: eltrombopag 25 MG (2).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:46:11 - pill_system - Prediction completed: UNKNOWN TABLET (Confidence: 35.26%), Top 3: [{'name': 'apixaban 2.5 MG', 'confidence': '35.26%'}, {'name': 'pantoprazole 40 MG', 'confidence': '23.87%'}, {'name': 'carvedilol 3.125 MG', 'confidence': '5.61%'}], Processing time: N/Ams
+WARNING - 2026-04-02 16:46:11 - pill_system - Low confidence prediction - Pill: UNKNOWN TABLET, Confidence: 35.26%, Below threshold: 70%
+WARNING - 2026-04-02 16:46:11 - pill_system - Safety validation FAILED - Pill: UNKNOWN TABLET, Details: {'is_safe': False, 'warnings': ['Confidence 35.3% below threshold 70%'], 'errors': ['Could not identify tablet'], 'recommendations': []}
+INFO - 2026-04-02 16:46:11 - Users.views - [MEDICAL PREDICTION] Result: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:11 - Users.views - [MEDICAL PREDICTION] Confidence: 35.26%
+INFO - 2026-04-02 16:46:11 - Users.views - [MEDICAL PREDICTION] Safety Check: False
+INFO - 2026-04-02 16:46:11 - Users.views - [MEDICAL PREDICTION] Validation: False
+WARNING - 2026-04-02 16:46:11 - Users.views - [MEDICAL WARNING] Confidence 35.3% below threshold 70%
+ERROR - 2026-04-02 16:46:11 - Users.views - [MEDICAL ERROR] Could not identify tablet
+INFO - 2026-04-02 16:46:11 - pill_system - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:11 - Users.views - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:11 - pill_system - CSV record written - File: pill_predictions.csv, Pill: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:11 - django.server - "POST /prediction HTTP/1.1" 200 23229
+WARNING - 2026-04-02 16:46:11 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:46:11 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:46:11 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:46:11 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:46:11 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-02 16:46:11 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+INFO - 2026-04-02 16:46:24 - pill_system - Image uploaded successfully - File: Calcitriol 0.00025 MG (1).jpg, Size: 11320 bytes
+INFO - 2026-04-02 16:46:24 - pill_system - File type validation passed - File: Calcitriol 0.00025 MG (1).jpg, Type: jpg
+INFO - 2026-04-02 16:46:24 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Calcitriol 0.00025 MG (1).jpg
+INFO - 2026-04-02 16:46:24 - pill_system - Image preprocessing started - File: Calcitriol 0.00025 MG (1).jpg
+INFO - 2026-04-02 16:46:24 - pill_system - Model prediction started - File: Calcitriol 0.00025 MG (1).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:46:24 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:46:24 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Calcitriol 0.00025 MG (1).jpg
+DEBUG - 2026-04-02 16:46:24 - Users.utility.requirement - [PREPROCESS] Original image size: (224, 224)
+DEBUG - 2026-04-02 16:46:24 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:46:24 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.9412]
+INFO - 2026-04-02 16:46:24 - pill_system - Image preprocessing completed - File: Calcitriol 0.00025 MG (1).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.002287, max: 0.360869, mean: 0.050000, std: 0.074498
+INFO - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Calcitriol 0.00025 MG', 0.3608686327934265), ('prasugrel 10 MG', 0.06458648294210434), ('tadalafil 5 MG', 0.06458509713411331)]
+INFO - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Predicted: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Confidence: 36.09% (Threshold: 50%)
+INFO - 2026-04-02 16:46:24 - Users.utility.requirement - [PREDICTION] Is Confident: False
+WARNING - 2026-04-02 16:46:24 - Users.utility.requirement - [SAFETY] Confidence too low (36.09%). Returning UNKNOWN.
+INFO - 2026-04-02 16:46:24 - pill_system - Image preprocessing completed - File: Calcitriol 0.00025 MG (1).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:46:24 - pill_system - Prediction completed: UNKNOWN TABLET (Confidence: 36.09%), Top 3: [{'name': 'Calcitriol 0.00025 MG', 'confidence': '36.09%'}, {'name': 'prasugrel 10 MG', 'confidence': '6.46%'}, {'name': 'tadalafil 5 MG', 'confidence': '6.46%'}], Processing time: N/Ams
+WARNING - 2026-04-02 16:46:24 - pill_system - Low confidence prediction - Pill: UNKNOWN TABLET, Confidence: 36.09%, Below threshold: 70%
+WARNING - 2026-04-02 16:46:24 - pill_system - Safety validation FAILED - Pill: UNKNOWN TABLET, Details: {'is_safe': False, 'warnings': ['Confidence 36.1% below threshold 70%'], 'errors': ['Could not identify tablet'], 'recommendations': []}
+INFO - 2026-04-02 16:46:24 - Users.views - [MEDICAL PREDICTION] Result: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:24 - Users.views - [MEDICAL PREDICTION] Confidence: 36.09%
+INFO - 2026-04-02 16:46:24 - Users.views - [MEDICAL PREDICTION] Safety Check: False
+INFO - 2026-04-02 16:46:24 - Users.views - [MEDICAL PREDICTION] Validation: False
+WARNING - 2026-04-02 16:46:24 - Users.views - [MEDICAL WARNING] Confidence 36.1% below threshold 70%
+ERROR - 2026-04-02 16:46:24 - Users.views - [MEDICAL ERROR] Could not identify tablet
+INFO - 2026-04-02 16:46:24 - pill_system - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:24 - Users.views - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:24 - pill_system - CSV record written - File: pill_predictions.csv, Pill: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:24 - django.server - "POST /prediction HTTP/1.1" 200 23229
+WARNING - 2026-04-02 16:46:24 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:46:24 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:46:24 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:46:24 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:46:24 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:46:24 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-02 16:46:36 - pill_system - Image uploaded successfully - File: carvedilol 3.125 MG (10).jpg, Size: 4157 bytes
+INFO - 2026-04-02 16:46:36 - pill_system - File type validation passed - File: carvedilol 3.125 MG (10).jpg, Type: jpg
+INFO - 2026-04-02 16:46:36 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\carvedilol 3.125 MG (10).jpg
+INFO - 2026-04-02 16:46:36 - pill_system - Image preprocessing started - File: carvedilol 3.125 MG (10).jpg
+INFO - 2026-04-02 16:46:36 - pill_system - Model prediction started - File: carvedilol 3.125 MG (10).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:46:36 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:46:36 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:46:36 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:46:36 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:46:36 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\carvedilol 3.125 MG (10).jpg
+DEBUG - 2026-04-02 16:46:36 - Users.utility.requirement - [PREPROCESS] Original image size: (224, 224)
+DEBUG - 2026-04-02 16:46:36 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:46:36 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.7373]
+INFO - 2026-04-02 16:46:36 - pill_system - Image preprocessing completed - File: carvedilol 3.125 MG (10).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:46:36 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:46:37 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:46:37 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:46:37 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.004351, max: 0.357904, mean: 0.050000, std: 0.075574
+INFO - 2026-04-02 16:46:37 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('carvedilol 3.125 MG', 0.3579036295413971), ('apixaban 2.5 MG', 0.11154814809560776), ('tadalafil 5 MG', 0.07232420891523361)]
+INFO - 2026-04-02 16:46:37 - Users.utility.requirement - [PREDICTION] Predicted: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:37 - Users.utility.requirement - [PREDICTION] Confidence: 35.79% (Threshold: 50%)
+INFO - 2026-04-02 16:46:37 - Users.utility.requirement - [PREDICTION] Is Confident: False
+WARNING - 2026-04-02 16:46:37 - Users.utility.requirement - [SAFETY] Confidence too low (35.79%). Returning UNKNOWN.
+INFO - 2026-04-02 16:46:37 - pill_system - Image preprocessing completed - File: carvedilol 3.125 MG (10).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:46:37 - pill_system - Prediction completed: UNKNOWN TABLET (Confidence: 35.79%), Top 3: [{'name': 'carvedilol 3.125 MG', 'confidence': '35.79%'}, {'name': 'apixaban 2.5 MG', 'confidence': '11.15%'}, {'name': 'tadalafil 5 MG', 'confidence': '7.23%'}], Processing time: N/Ams
+WARNING - 2026-04-02 16:46:37 - pill_system - Low confidence prediction - Pill: UNKNOWN TABLET, Confidence: 35.79%, Below threshold: 70%
+WARNING - 2026-04-02 16:46:37 - pill_system - Safety validation FAILED - Pill: UNKNOWN TABLET, Details: {'is_safe': False, 'warnings': ['Confidence 35.8% below threshold 70%'], 'errors': ['Could not identify tablet'], 'recommendations': []}
+INFO - 2026-04-02 16:46:37 - Users.views - [MEDICAL PREDICTION] Result: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:37 - Users.views - [MEDICAL PREDICTION] Confidence: 35.79%
+INFO - 2026-04-02 16:46:37 - Users.views - [MEDICAL PREDICTION] Safety Check: False
+INFO - 2026-04-02 16:46:37 - Users.views - [MEDICAL PREDICTION] Validation: False
+WARNING - 2026-04-02 16:46:37 - Users.views - [MEDICAL WARNING] Confidence 35.8% below threshold 70%
+ERROR - 2026-04-02 16:46:37 - Users.views - [MEDICAL ERROR] Could not identify tablet
+INFO - 2026-04-02 16:46:37 - pill_system - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:37 - Users.views - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:37 - pill_system - CSV record written - File: pill_predictions.csv, Pill: UNKNOWN TABLET
+INFO - 2026-04-02 16:46:37 - django.server - "POST /prediction HTTP/1.1" 200 23229
+WARNING - 2026-04-02 16:46:37 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:46:37 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:46:37 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:46:37 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:46:37 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:46:37 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-02 16:47:01 - pill_system - Image uploaded successfully - File: benzonatate 100 MG (1).jpg, Size: 152379 bytes
+INFO - 2026-04-02 16:47:01 - pill_system - File type validation passed - File: benzonatate 100 MG (1).jpg, Type: jpg
+INFO - 2026-04-02 16:47:01 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\benzonatate 100 MG (1).jpg
+INFO - 2026-04-02 16:47:01 - pill_system - Image preprocessing started - File: benzonatate 100 MG (1).jpg
+INFO - 2026-04-02 16:47:01 - pill_system - Model prediction started - File: benzonatate 100 MG (1).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\benzonatate 100 MG (1).jpg
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [PREPROCESS] Original image size: (800, 700)
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 1.0000]
+INFO - 2026-04-02 16:47:01 - pill_system - Image preprocessing completed - File: benzonatate 100 MG (1).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.001110, max: 0.880044, mean: 0.050000, std: 0.190511
+INFO - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('benzonatate 100 MG', 0.8800443410873413), ('Calcitriol 0.00025 MG', 0.018902933225035667), ('carvedilol 3.125 MG', 0.01666508987545967)]
+INFO - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Predicted: benzonatate 100 MG
+INFO - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Confidence: 88.00% (Threshold: 50%)
+INFO - 2026-04-02 16:47:01 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-02 16:47:01 - Users.utility.requirement - [UNLABELED] Checking if benzonatate 100 MG is an unlabeled pill...
+DEBUG - 2026-04-02 16:47:01 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-02 16:47:01 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for benzonatate 100 MG
+INFO - 2026-04-02 16:47:01 - pill_system - Image preprocessing completed - File: benzonatate 100 MG (1).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:47:01 - pill_system - Prediction completed: benzonatate 100 MG (Confidence: 88.00%), Top 3: [{'name': 'benzonatate 100 MG', 'confidence': '88.00%'}, {'name': 'Calcitriol 0.00025 MG', 'confidence': '1.89%'}, {'name': 'carvedilol 3.125 MG', 'confidence': '1.67%'}], Processing time: N/Ams
+INFO - 2026-04-02 16:47:01 - pill_system - Safety validation PASSED - Pill: benzonatate 100 MG, Details: {'is_safe': True, 'warnings': [], 'errors': [], 'recommendations': []}
+INFO - 2026-04-02 16:47:01 - Users.views - [MEDICAL PREDICTION] Result: benzonatate 100 MG
+INFO - 2026-04-02 16:47:01 - Users.views - [MEDICAL PREDICTION] Confidence: 88.00%
+INFO - 2026-04-02 16:47:01 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-02 16:47:01 - Users.views - [MEDICAL PREDICTION] Validation: True
+INFO - 2026-04-02 16:47:01 - pill_system - Prediction recorded to CSV: benzonatate 100 MG
+INFO - 2026-04-02 16:47:01 - Users.views - Prediction recorded to CSV: benzonatate 100 MG
+INFO - 2026-04-02 16:47:01 - pill_system - CSV record written - File: pill_predictions.csv, Pill: benzonatate 100 MG
+INFO - 2026-04-02 16:47:01 - django.server - "POST /prediction HTTP/1.1" 200 23661
+WARNING - 2026-04-02 16:47:01 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:47:01 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:47:01 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:47:01 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:47:01 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:47:01 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-02 16:47:23 - pill_system - Image uploaded successfully - File: Calcitriol 0.00025 MG (1).jpg, Size: 11320 bytes
+INFO - 2026-04-02 16:47:23 - pill_system - File type validation passed - File: Calcitriol 0.00025 MG (1).jpg, Type: jpg
+INFO - 2026-04-02 16:47:23 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Calcitriol 0.00025 MG (1).jpg
+INFO - 2026-04-02 16:47:23 - pill_system - Image preprocessing started - File: Calcitriol 0.00025 MG (1).jpg
+INFO - 2026-04-02 16:47:23 - pill_system - Model prediction started - File: Calcitriol 0.00025 MG (1).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:47:23 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:47:23 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Calcitriol 0.00025 MG (1).jpg
+DEBUG - 2026-04-02 16:47:23 - Users.utility.requirement - [PREPROCESS] Original image size: (224, 224)
+DEBUG - 2026-04-02 16:47:23 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:47:23 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.9412]
+INFO - 2026-04-02 16:47:23 - pill_system - Image preprocessing completed - File: Calcitriol 0.00025 MG (1).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.002287, max: 0.360869, mean: 0.050000, std: 0.074498
+INFO - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Calcitriol 0.00025 MG', 0.3608686327934265), ('prasugrel 10 MG', 0.06458648294210434), ('tadalafil 5 MG', 0.06458509713411331)]
+INFO - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Predicted: UNKNOWN TABLET
+INFO - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Confidence: 36.09% (Threshold: 50%)
+INFO - 2026-04-02 16:47:23 - Users.utility.requirement - [PREDICTION] Is Confident: False
+WARNING - 2026-04-02 16:47:23 - Users.utility.requirement - [SAFETY] Confidence too low (36.09%). Returning UNKNOWN.
+INFO - 2026-04-02 16:47:23 - pill_system - Image preprocessing completed - File: Calcitriol 0.00025 MG (1).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:47:23 - pill_system - Prediction completed: UNKNOWN TABLET (Confidence: 36.09%), Top 3: [{'name': 'Calcitriol 0.00025 MG', 'confidence': '36.09%'}, {'name': 'prasugrel 10 MG', 'confidence': '6.46%'}, {'name': 'tadalafil 5 MG', 'confidence': '6.46%'}], Processing time: N/Ams
+WARNING - 2026-04-02 16:47:23 - pill_system - Low confidence prediction - Pill: UNKNOWN TABLET, Confidence: 36.09%, Below threshold: 70%
+WARNING - 2026-04-02 16:47:23 - pill_system - Safety validation FAILED - Pill: UNKNOWN TABLET, Details: {'is_safe': False, 'warnings': ['Confidence 36.1% below threshold 70%'], 'errors': ['Could not identify tablet'], 'recommendations': []}
+INFO - 2026-04-02 16:47:23 - Users.views - [MEDICAL PREDICTION] Result: UNKNOWN TABLET
+INFO - 2026-04-02 16:47:23 - Users.views - [MEDICAL PREDICTION] Confidence: 36.09%
+INFO - 2026-04-02 16:47:23 - Users.views - [MEDICAL PREDICTION] Safety Check: False
+INFO - 2026-04-02 16:47:23 - Users.views - [MEDICAL PREDICTION] Validation: False
+WARNING - 2026-04-02 16:47:23 - Users.views - [MEDICAL WARNING] Confidence 36.1% below threshold 70%
+ERROR - 2026-04-02 16:47:23 - Users.views - [MEDICAL ERROR] Could not identify tablet
+INFO - 2026-04-02 16:47:23 - pill_system - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-02 16:47:23 - Users.views - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-02 16:47:23 - pill_system - CSV record written - File: pill_predictions.csv, Pill: UNKNOWN TABLET
+INFO - 2026-04-02 16:47:23 - django.server - "POST /prediction HTTP/1.1" 200 23229
+WARNING - 2026-04-02 16:47:23 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:47:23 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:47:23 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:47:23 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:47:23 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:47:23 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-02 16:47:40 - pill_system - Image uploaded successfully - File: celecoxib 200 MG (1).jpg, Size: 26115 bytes
+INFO - 2026-04-02 16:47:40 - pill_system - File type validation passed - File: celecoxib 200 MG (1).jpg, Type: jpg
+INFO - 2026-04-02 16:47:40 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\celecoxib 200 MG (1).jpg
+INFO - 2026-04-02 16:47:40 - pill_system - Image preprocessing started - File: celecoxib 200 MG (1).jpg
+INFO - 2026-04-02 16:47:40 - pill_system - Model prediction started - File: celecoxib 200 MG (1).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\celecoxib 200 MG (1).jpg
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [PREPROCESS] Original image size: (300, 225)
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0235, 0.9059]
+INFO - 2026-04-02 16:47:40 - pill_system - Image preprocessing completed - File: celecoxib 200 MG (1).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.000326, max: 0.690136, mean: 0.050000, std: 0.149333
+INFO - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('celecoxib 200 MG', 0.6901364326477051), ('Oseltamivir 45 MG', 0.1034543365240097), ('aprepitant 80 MG', 0.0838826522231102)]
+INFO - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Predicted: celecoxib 200 MG
+INFO - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Confidence: 69.01% (Threshold: 50%)
+INFO - 2026-04-02 16:47:40 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-02 16:47:40 - Users.utility.requirement - [UNLABELED] Checking if celecoxib 200 MG is an unlabeled pill...
+DEBUG - 2026-04-02 16:47:40 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-02 16:47:40 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for celecoxib 200 MG
+INFO - 2026-04-02 16:47:40 - pill_system - Image preprocessing completed - File: celecoxib 200 MG (1).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:47:40 - pill_system - Prediction completed: celecoxib 200 MG (Confidence: 69.01%), Top 3: [{'name': 'celecoxib 200 MG', 'confidence': '69.01%'}, {'name': 'Oseltamivir 45 MG', 'confidence': '10.35%'}, {'name': 'aprepitant 80 MG', 'confidence': '8.39%'}], Processing time: N/Ams
+WARNING - 2026-04-02 16:47:40 - pill_system - Low confidence prediction - Pill: celecoxib 200 MG, Confidence: 69.01%, Below threshold: 70%
+INFO - 2026-04-02 16:47:40 - pill_system - Safety validation PASSED - Pill: celecoxib 200 MG, Details: {'is_safe': True, 'warnings': ['Confidence 69.0% below threshold 70%'], 'errors': [], 'recommendations': []}
+INFO - 2026-04-02 16:47:40 - Users.views - [MEDICAL PREDICTION] Result: celecoxib 200 MG
+INFO - 2026-04-02 16:47:40 - Users.views - [MEDICAL PREDICTION] Confidence: 69.01%
+INFO - 2026-04-02 16:47:40 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-02 16:47:40 - Users.views - [MEDICAL PREDICTION] Validation: True
+WARNING - 2026-04-02 16:47:40 - Users.views - [MEDICAL WARNING] Confidence 69.0% below threshold 70%
+INFO - 2026-04-02 16:47:40 - pill_system - Prediction recorded to CSV: celecoxib 200 MG
+INFO - 2026-04-02 16:47:40 - Users.views - Prediction recorded to CSV: celecoxib 200 MG
+INFO - 2026-04-02 16:47:40 - pill_system - CSV record written - File: pill_predictions.csv, Pill: celecoxib 200 MG
+INFO - 2026-04-02 16:47:40 - django.server - "POST /prediction HTTP/1.1" 200 23673
+WARNING - 2026-04-02 16:47:40 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:47:40 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:47:40 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:47:40 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:47:40 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:47:40 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-02 16:47:53 - pill_system - Image uploaded successfully - File: Oseltamivir 45 MG (2).jpg, Size: 22130 bytes
+INFO - 2026-04-02 16:47:53 - pill_system - File type validation passed - File: Oseltamivir 45 MG (2).jpg, Type: jpg
+INFO - 2026-04-02 16:47:53 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Oseltamivir 45 MG (2).jpg
+INFO - 2026-04-02 16:47:53 - pill_system - Image preprocessing started - File: Oseltamivir 45 MG (2).jpg
+INFO - 2026-04-02 16:47:53 - pill_system - Model prediction started - File: Oseltamivir 45 MG (2).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:47:53 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:47:53 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:47:53 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:47:53 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:47:53 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Oseltamivir 45 MG (2).jpg
+DEBUG - 2026-04-02 16:47:53 - Users.utility.requirement - [PREPROCESS] Original image size: (300, 225)
+DEBUG - 2026-04-02 16:47:53 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:47:53 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.3020, 0.8196]
+INFO - 2026-04-02 16:47:53 - pill_system - Image preprocessing completed - File: Oseltamivir 45 MG (2).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:47:53 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:47:54 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:47:54 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:47:54 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.000184, max: 0.597372, mean: 0.050000, std: 0.129695
+INFO - 2026-04-02 16:47:54 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Oseltamivir 45 MG', 0.5973720550537109), ('duloxetine 30 MG', 0.10798580199480057), ('aprepitant 80 MG', 0.08280954509973526)]
+INFO - 2026-04-02 16:47:54 - Users.utility.requirement - [PREDICTION] Predicted: Oseltamivir 45 MG
+INFO - 2026-04-02 16:47:54 - Users.utility.requirement - [PREDICTION] Confidence: 59.74% (Threshold: 50%)
+INFO - 2026-04-02 16:47:54 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-02 16:47:54 - Users.utility.requirement - [UNLABELED] Checking if Oseltamivir 45 MG is an unlabeled pill...
+DEBUG - 2026-04-02 16:47:54 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-02 16:47:54 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for Oseltamivir 45 MG
+INFO - 2026-04-02 16:47:54 - pill_system - Image preprocessing completed - File: Oseltamivir 45 MG (2).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:47:54 - pill_system - Prediction completed: Oseltamivir 45 MG (Confidence: 59.74%), Top 3: [{'name': 'Oseltamivir 45 MG', 'confidence': '59.74%'}, {'name': 'duloxetine 30 MG', 'confidence': '10.80%'}, {'name': 'aprepitant 80 MG', 'confidence': '8.28%'}], Processing time: N/Ams
+WARNING - 2026-04-02 16:47:54 - pill_system - Low confidence prediction - Pill: Oseltamivir 45 MG, Confidence: 59.74%, Below threshold: 70%
+INFO - 2026-04-02 16:47:54 - pill_system - Safety validation PASSED - Pill: Oseltamivir 45 MG, Details: {'is_safe': True, 'warnings': ['Confidence 59.7% below threshold 70%'], 'errors': [], 'recommendations': []}
+INFO - 2026-04-02 16:47:54 - Users.views - [MEDICAL PREDICTION] Result: Oseltamivir 45 MG
+INFO - 2026-04-02 16:47:54 - Users.views - [MEDICAL PREDICTION] Confidence: 59.74%
+INFO - 2026-04-02 16:47:54 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-02 16:47:54 - Users.views - [MEDICAL PREDICTION] Validation: True
+WARNING - 2026-04-02 16:47:54 - Users.views - [MEDICAL WARNING] Confidence 59.7% below threshold 70%
+INFO - 2026-04-02 16:47:54 - pill_system - Prediction recorded to CSV: Oseltamivir 45 MG
+INFO - 2026-04-02 16:47:54 - Users.views - Prediction recorded to CSV: Oseltamivir 45 MG
+INFO - 2026-04-02 16:47:54 - pill_system - CSV record written - File: pill_predictions.csv, Pill: Oseltamivir 45 MG
+INFO - 2026-04-02 16:47:54 - django.server - "POST /prediction HTTP/1.1" 200 23862
+WARNING - 2026-04-02 16:47:54 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:47:54 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:47:54 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:47:54 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:47:54 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-02 16:47:54 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+INFO - 2026-04-02 16:48:06 - pill_system - Image uploaded successfully - File: prasugrel 10 MG (2).jpg, Size: 11875 bytes
+INFO - 2026-04-02 16:48:06 - pill_system - File type validation passed - File: prasugrel 10 MG (2).jpg, Type: jpg
+INFO - 2026-04-02 16:48:06 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\prasugrel 10 MG (2).jpg
+INFO - 2026-04-02 16:48:06 - pill_system - Image preprocessing started - File: prasugrel 10 MG (2).jpg
+INFO - 2026-04-02 16:48:06 - pill_system - Model prediction started - File: prasugrel 10 MG (2).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\prasugrel 10 MG (2).jpg
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [PREPROCESS] Original image size: (120, 96)
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 1.0000]
+INFO - 2026-04-02 16:48:06 - pill_system - Image preprocessing completed - File: prasugrel 10 MG (2).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.000914, max: 0.803207, mean: 0.050000, std: 0.173068
+INFO - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('prasugrel 10 MG', 0.8032065629959106), ('montelukast 10 MG', 0.03547635301947594), ('tadalafil 5 MG', 0.03452844172716141)]
+INFO - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Predicted: prasugrel 10 MG
+INFO - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Confidence: 80.32% (Threshold: 50%)
+INFO - 2026-04-02 16:48:06 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-02 16:48:06 - Users.utility.requirement - [UNLABELED] Checking if prasugrel 10 MG is an unlabeled pill...
+DEBUG - 2026-04-02 16:48:06 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-02 16:48:06 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for prasugrel 10 MG
+INFO - 2026-04-02 16:48:06 - pill_system - Image preprocessing completed - File: prasugrel 10 MG (2).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:48:06 - pill_system - Prediction completed: prasugrel 10 MG (Confidence: 80.32%), Top 3: [{'name': 'prasugrel 10 MG', 'confidence': '80.32%'}, {'name': 'montelukast 10 MG', 'confidence': '3.55%'}, {'name': 'tadalafil 5 MG', 'confidence': '3.45%'}], Processing time: N/Ams
+INFO - 2026-04-02 16:48:06 - pill_system - Safety validation PASSED - Pill: prasugrel 10 MG, Details: {'is_safe': True, 'warnings': [], 'errors': [], 'recommendations': []}
+INFO - 2026-04-02 16:48:06 - Users.views - [MEDICAL PREDICTION] Result: prasugrel 10 MG
+INFO - 2026-04-02 16:48:06 - Users.views - [MEDICAL PREDICTION] Confidence: 80.32%
+INFO - 2026-04-02 16:48:06 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-02 16:48:06 - Users.views - [MEDICAL PREDICTION] Validation: True
+INFO - 2026-04-02 16:48:06 - pill_system - Prediction recorded to CSV: prasugrel 10 MG
+INFO - 2026-04-02 16:48:06 - Users.views - Prediction recorded to CSV: prasugrel 10 MG
+INFO - 2026-04-02 16:48:06 - pill_system - CSV record written - File: pill_predictions.csv, Pill: prasugrel 10 MG
+INFO - 2026-04-02 16:48:06 - django.server - "POST /prediction HTTP/1.1" 200 23740
+WARNING - 2026-04-02 16:48:07 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:48:07 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:48:07 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-02 16:48:07 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:48:07 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:48:07 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+INFO - 2026-04-02 16:48:27 - pill_system - Image uploaded successfully - File: duloxetine 30 MG (2).jpg, Size: 103197 bytes
+INFO - 2026-04-02 16:48:27 - pill_system - File type validation passed - File: duloxetine 30 MG (2).jpg, Type: jpg
+INFO - 2026-04-02 16:48:27 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\duloxetine 30 MG (2).jpg
+INFO - 2026-04-02 16:48:27 - pill_system - Image preprocessing started - File: duloxetine 30 MG (2).jpg
+INFO - 2026-04-02 16:48:27 - pill_system - Model prediction started - File: duloxetine 30 MG (2).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\duloxetine 30 MG (2).jpg
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [PREPROCESS] Original image size: (800, 600)
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0039, 0.8078]
+INFO - 2026-04-02 16:48:27 - pill_system - Image preprocessing completed - File: duloxetine 30 MG (2).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.000196, max: 0.709588, mean: 0.050000, std: 0.153117
+INFO - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('duloxetine 30 MG', 0.7095876336097717), ('Atomoxetine 25 MG', 0.09593365341424942), ('mycophenolate mofetil 250 MG', 0.04258817061781883)]
+INFO - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Predicted: duloxetine 30 MG
+INFO - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Confidence: 70.96% (Threshold: 50%)
+INFO - 2026-04-02 16:48:27 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-02 16:48:27 - Users.utility.requirement - [UNLABELED] Checking if duloxetine 30 MG is an unlabeled pill...
+DEBUG - 2026-04-02 16:48:27 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-02 16:48:27 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for duloxetine 30 MG
+INFO - 2026-04-02 16:48:27 - pill_system - Image preprocessing completed - File: duloxetine 30 MG (2).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:48:27 - pill_system - Prediction completed: duloxetine 30 MG (Confidence: 70.96%), Top 3: [{'name': 'duloxetine 30 MG', 'confidence': '70.96%'}, {'name': 'Atomoxetine 25 MG', 'confidence': '9.59%'}, {'name': 'mycophenolate mofetil 250 MG', 'confidence': '4.26%'}], Processing time: N/Ams
+INFO - 2026-04-02 16:48:27 - pill_system - Safety validation PASSED - Pill: duloxetine 30 MG, Details: {'is_safe': True, 'warnings': [], 'errors': [], 'recommendations': []}
+INFO - 2026-04-02 16:48:27 - Users.views - [MEDICAL PREDICTION] Result: duloxetine 30 MG
+INFO - 2026-04-02 16:48:27 - Users.views - [MEDICAL PREDICTION] Confidence: 70.96%
+INFO - 2026-04-02 16:48:27 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-02 16:48:27 - Users.views - [MEDICAL PREDICTION] Validation: True
+INFO - 2026-04-02 16:48:27 - pill_system - Prediction recorded to CSV: duloxetine 30 MG
+INFO - 2026-04-02 16:48:27 - Users.views - Prediction recorded to CSV: duloxetine 30 MG
+INFO - 2026-04-02 16:48:27 - pill_system - CSV record written - File: pill_predictions.csv, Pill: duloxetine 30 MG
+INFO - 2026-04-02 16:48:27 - django.server - "POST /prediction HTTP/1.1" 200 23785
+WARNING - 2026-04-02 16:48:27 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:48:27 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:48:27 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:48:27 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:48:27 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-02 16:48:27 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+INFO - 2026-04-02 16:48:39 - pill_system - Image uploaded successfully - File: Calcitriol 0.00025 MG (3).jpg, Size: 327457 bytes
+INFO - 2026-04-02 16:48:39 - pill_system - File type validation passed - File: Calcitriol 0.00025 MG (3).jpg, Type: jpg
+INFO - 2026-04-02 16:48:39 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Calcitriol 0.00025 MG (3).jpg
+INFO - 2026-04-02 16:48:39 - pill_system - Image preprocessing started - File: Calcitriol 0.00025 MG (3).jpg
+INFO - 2026-04-02 16:48:39 - pill_system - Model prediction started - File: Calcitriol 0.00025 MG (3).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Calcitriol 0.00025 MG (3).jpg
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [PREPROCESS] Original image size: (1024, 768)
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.8980]
+INFO - 2026-04-02 16:48:39 - pill_system - Image preprocessing completed - File: Calcitriol 0.00025 MG (3).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.002074, max: 0.623451, mean: 0.050000, std: 0.132603
+INFO - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Calcitriol 0.00025 MG', 0.6234511137008667), ('saxagliptin 5 MG', 0.05442167818546295), ('eltrombopag 25 MG', 0.05078508332371712)]
+INFO - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Predicted: Calcitriol 0.00025 MG
+INFO - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Confidence: 62.35% (Threshold: 50%)
+INFO - 2026-04-02 16:48:39 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-02 16:48:39 - Users.utility.requirement - [UNLABELED] Checking if Calcitriol 0.00025 MG is an unlabeled pill...
+DEBUG - 2026-04-02 16:48:39 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-02 16:48:39 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for Calcitriol 0.00025 MG
+INFO - 2026-04-02 16:48:39 - pill_system - Image preprocessing completed - File: Calcitriol 0.00025 MG (3).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:48:39 - pill_system - Prediction completed: Calcitriol 0.00025 MG (Confidence: 62.35%), Top 3: [{'name': 'Calcitriol 0.00025 MG', 'confidence': '62.35%'}, {'name': 'saxagliptin 5 MG', 'confidence': '5.44%'}, {'name': 'eltrombopag 25 MG', 'confidence': '5.08%'}], Processing time: N/Ams
+WARNING - 2026-04-02 16:48:39 - pill_system - Low confidence prediction - Pill: Calcitriol 0.00025 MG, Confidence: 62.35%, Below threshold: 70%
+INFO - 2026-04-02 16:48:39 - pill_system - Safety validation PASSED - Pill: Calcitriol 0.00025 MG, Details: {'is_safe': True, 'warnings': ['Confidence 62.4% below threshold 70%'], 'errors': [], 'recommendations': []}
+INFO - 2026-04-02 16:48:39 - Users.views - [MEDICAL PREDICTION] Result: Calcitriol 0.00025 MG
+INFO - 2026-04-02 16:48:39 - Users.views - [MEDICAL PREDICTION] Confidence: 62.35%
+INFO - 2026-04-02 16:48:39 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-02 16:48:39 - Users.views - [MEDICAL PREDICTION] Validation: True
+WARNING - 2026-04-02 16:48:39 - Users.views - [MEDICAL WARNING] Confidence 62.4% below threshold 70%
+INFO - 2026-04-02 16:48:39 - pill_system - Prediction recorded to CSV: Calcitriol 0.00025 MG
+INFO - 2026-04-02 16:48:39 - Users.views - Prediction recorded to CSV: Calcitriol 0.00025 MG
+INFO - 2026-04-02 16:48:39 - pill_system - CSV record written - File: pill_predictions.csv, Pill: Calcitriol 0.00025 MG
+INFO - 2026-04-02 16:48:39 - django.server - "POST /prediction HTTP/1.1" 200 23796
+WARNING - 2026-04-02 16:48:39 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:48:39 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:48:39 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:48:39 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:48:39 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:48:39 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-02 16:48:55 - pill_system - Image uploaded successfully - File: Amoxicillin 500 MG (2).jpg, Size: 495531 bytes
+INFO - 2026-04-02 16:48:55 - pill_system - File type validation passed - File: Amoxicillin 500 MG (2).jpg, Type: jpg
+INFO - 2026-04-02 16:48:55 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Amoxicillin 500 MG (2).jpg
+INFO - 2026-04-02 16:48:55 - pill_system - Image preprocessing started - File: Amoxicillin 500 MG (2).jpg
+INFO - 2026-04-02 16:48:55 - pill_system - Model prediction started - File: Amoxicillin 500 MG (2).jpg, Model: MobileNetV3Large
+INFO - 2026-04-02 16:48:55 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-02 16:48:55 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-02 16:48:55 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-02 16:48:55 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-02 16:48:55 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Amoxicillin 500 MG (2).jpg
+DEBUG - 2026-04-02 16:48:55 - Users.utility.requirement - [PREPROCESS] Original image size: (1024, 768)
+DEBUG - 2026-04-02 16:48:55 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-02 16:48:55 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.9333]
+INFO - 2026-04-02 16:48:55 - pill_system - Image preprocessing completed - File: Amoxicillin 500 MG (2).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-02 16:48:55 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-02 16:48:56 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-02 16:48:56 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-02 16:48:56 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.000590, max: 0.733689, mean: 0.050000, std: 0.158169
+INFO - 2026-04-02 16:48:56 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Amoxicillin 500 MG', 0.7336888909339905), ('Atomoxetine 25 MG', 0.08455120772123337), ('duloxetine 30 MG', 0.058531709015369415)]
+INFO - 2026-04-02 16:48:56 - Users.utility.requirement - [PREDICTION] Predicted: Amoxicillin 500 MG
+INFO - 2026-04-02 16:48:56 - Users.utility.requirement - [PREDICTION] Confidence: 73.37% (Threshold: 50%)
+INFO - 2026-04-02 16:48:56 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-02 16:48:56 - Users.utility.requirement - [UNLABELED] Checking if Amoxicillin 500 MG is an unlabeled pill...
+DEBUG - 2026-04-02 16:48:56 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-02 16:48:56 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for Amoxicillin 500 MG
+INFO - 2026-04-02 16:48:56 - pill_system - Image preprocessing completed - File: Amoxicillin 500 MG (2).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-02 16:48:56 - pill_system - Prediction completed: Amoxicillin 500 MG (Confidence: 73.37%), Top 3: [{'name': 'Amoxicillin 500 MG', 'confidence': '73.37%'}, {'name': 'Atomoxetine 25 MG', 'confidence': '8.46%'}, {'name': 'duloxetine 30 MG', 'confidence': '5.85%'}], Processing time: N/Ams
+INFO - 2026-04-02 16:48:56 - pill_system - Safety validation PASSED - Pill: Amoxicillin 500 MG, Details: {'is_safe': True, 'warnings': [], 'errors': [], 'recommendations': []}
+INFO - 2026-04-02 16:48:56 - Users.views - [MEDICAL PREDICTION] Result: Amoxicillin 500 MG
+INFO - 2026-04-02 16:48:56 - Users.views - [MEDICAL PREDICTION] Confidence: 73.37%
+INFO - 2026-04-02 16:48:56 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-02 16:48:56 - Users.views - [MEDICAL PREDICTION] Validation: True
+INFO - 2026-04-02 16:48:56 - pill_system - Prediction recorded to CSV: Amoxicillin 500 MG
+INFO - 2026-04-02 16:48:56 - Users.views - Prediction recorded to CSV: Amoxicillin 500 MG
+INFO - 2026-04-02 16:48:56 - pill_system - CSV record written - File: pill_predictions.csv, Pill: Amoxicillin 500 MG
+INFO - 2026-04-02 16:48:56 - django.server - "POST /prediction HTTP/1.1" 200 24059
+WARNING - 2026-04-02 16:48:56 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-02 16:48:56 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-02 16:48:56 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-02 16:48:56 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-02 16:48:56 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-02 16:48:56 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-10 18:43:49 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO - 2026-04-10 18:44:40 - django.server - "GET / HTTP/1.1" 200 11111
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/nice-select.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/icofont.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/font-awesome.min.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/owl-carousel.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/slicknav.min.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/datepicker.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/animate.min.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/style.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/magnific-popup.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/normalize.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/img/pill-identification1.jpg.jpg HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/css/responsive.css HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/img/image.jpeg HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/img/section-img.jpg HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/js/popper.min.js HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO - 2026-04-10 18:44:40 - django.server - "GET /assets/js/slicknav.min.js HTTP/1.1" 304 0
+WARNING - 2026-04-10 18:44:41 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-10 18:44:41 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-10 18:44:41 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-10 18:44:41 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-10 18:44:41 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-10 18:44:41 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+INFO - 2026-04-10 18:44:41 - django.server - "GET /assets/fonts/icofont.woff2 HTTP/1.1" 304 0
+WARNING - 2026-04-10 18:44:41 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-04-10 18:44:41 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-04-11 08:03:25 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO - 2026-04-11 08:03:37 - django.server - "GET / HTTP/1.1" 200 11111
+WARNING - 2026-04-11 08:03:37 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 08:03:37 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 08:03:37 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 08:03:37 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 08:03:37 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 08:03:37 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 08:03:37 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-04-11 08:03:37 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-04-11 08:03:40 - django.server - "GET /userLoginForm HTTP/1.1" 200 11483
+WARNING - 2026-04-11 08:03:40 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 08:03:40 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 08:03:40 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 08:03:40 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 08:03:40 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 08:03:40 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+INFO - 2026-04-11 08:03:47 - django.server - "POST /userLoginCheck HTTP/1.1" 200 8648
+WARNING - 2026-04-11 08:03:47 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 08:03:47 - django.server - "GET /assets/img/User.jpg HTTP/1.1" 404 1850
+WARNING - 2026-04-11 08:03:47 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 08:03:47 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 08:03:47 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 08:03:47 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 08:03:47 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+INFO - 2026-04-11 08:03:49 - django.server - "GET /prediction HTTP/1.1" 200 22571
+WARNING - 2026-04-11 08:03:49 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 08:03:50 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 08:03:50 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 08:03:50 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 08:03:50 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 08:03:50 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 08:03:50 - django.server - "GET /assets/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 304 0
+INFO - 2026-04-11 08:04:10 - pill_system - Image uploaded successfully - File: Atomoxetine 25 MG (1).jpg, Size: 26365 bytes
+INFO - 2026-04-11 08:04:10 - pill_system - File type validation passed - File: Atomoxetine 25 MG (1).jpg, Type: jpg
+INFO - 2026-04-11 08:04:10 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Atomoxetine 25 MG (1).jpg
+INFO - 2026-04-11 08:04:10 - pill_system - Image preprocessing started - File: Atomoxetine 25 MG (1).jpg
+INFO - 2026-04-11 08:04:10 - pill_system - Model prediction started - File: Atomoxetine 25 MG (1).jpg, Model: MobileNetV3Large
+INFO - 2026-04-11 08:04:10 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+INFO - 2026-04-11 08:04:10 - Users.utility.requirement - [CACHE] Loading model into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras
+INFO - 2026-04-11 08:04:12 - Users.utility.requirement - [CACHE] Model cached successfully
+INFO - 2026-04-11 08:04:12 - Users.utility.requirement - [CACHE] Loading metadata into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_metadata.json
+INFO - 2026-04-11 08:04:12 - Users.utility.requirement - [CACHE] Metadata cached successfully
+DEBUG - 2026-04-11 08:04:12 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-11 08:04:12 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Atomoxetine 25 MG (1).jpg
+DEBUG - 2026-04-11 08:04:12 - Users.utility.requirement - [PREPROCESS] Original image size: (300, 225)
+DEBUG - 2026-04-11 08:04:12 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-11 08:04:12 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.8510]
+INFO - 2026-04-11 08:04:12 - pill_system - Image preprocessing completed - File: Atomoxetine 25 MG (1).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-11 08:04:12 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-11 08:04:15 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-11 08:04:15 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-11 08:04:15 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.001055, max: 0.535377, mean: 0.050000, std: 0.115339
+INFO - 2026-04-11 08:04:15 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Atomoxetine 25 MG', 0.5353773832321167), ('duloxetine 30 MG', 0.1253596693277359), ('Amoxicillin 500 MG', 0.06021551042795181)]
+INFO - 2026-04-11 08:04:15 - Users.utility.requirement - [PREDICTION] Predicted: Atomoxetine 25 MG
+INFO - 2026-04-11 08:04:15 - Users.utility.requirement - [PREDICTION] Confidence: 53.54% (Threshold: 50%)
+INFO - 2026-04-11 08:04:15 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-11 08:04:15 - Users.utility.requirement - [UNLABELED] Checking if Atomoxetine 25 MG is an unlabeled pill...
+DEBUG - 2026-04-11 08:04:15 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-11 08:04:15 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for Atomoxetine 25 MG
+INFO - 2026-04-11 08:04:15 - pill_system - Image preprocessing completed - File: Atomoxetine 25 MG (1).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-11 08:04:15 - pill_system - Prediction completed: Atomoxetine 25 MG (Confidence: 53.54%), Top 3: [{'name': 'Atomoxetine 25 MG', 'confidence': '53.54%'}, {'name': 'duloxetine 30 MG', 'confidence': '12.54%'}, {'name': 'Amoxicillin 500 MG', 'confidence': '6.02%'}], Processing time: N/Ams
+WARNING - 2026-04-11 08:04:15 - pill_system - Low confidence prediction - Pill: Atomoxetine 25 MG, Confidence: 53.54%, Below threshold: 70%
+INFO - 2026-04-11 08:04:15 - pill_system - Safety validation PASSED - Pill: Atomoxetine 25 MG, Details: {'is_safe': True, 'warnings': ['Confidence 53.5% below threshold 70%'], 'errors': [], 'recommendations': []}
+INFO - 2026-04-11 08:04:15 - Users.views - [MEDICAL PREDICTION] Result: Atomoxetine 25 MG
+INFO - 2026-04-11 08:04:15 - Users.views - [MEDICAL PREDICTION] Confidence: 53.54%
+INFO - 2026-04-11 08:04:15 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-11 08:04:15 - Users.views - [MEDICAL PREDICTION] Validation: True
+WARNING - 2026-04-11 08:04:15 - Users.views - [MEDICAL WARNING] Confidence 53.5% below threshold 70%
+INFO - 2026-04-11 08:04:15 - pill_system - Prediction recorded to CSV: Atomoxetine 25 MG
+INFO - 2026-04-11 08:04:15 - Users.views - Prediction recorded to CSV: Atomoxetine 25 MG
+INFO - 2026-04-11 08:04:15 - pill_system - CSV record written - File: pill_predictions.csv, Pill: Atomoxetine 25 MG
+INFO - 2026-04-11 08:04:15 - django.server - "POST /prediction HTTP/1.1" 200 23868
+WARNING - 2026-04-11 08:04:15 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 08:04:15 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 08:04:15 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 08:04:15 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 08:04:15 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 08:04:15 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+INFO - 2026-04-11 14:15:47 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO - 2026-04-11 14:16:09 - django.server - "GET / HTTP/1.1" 200 11111
+WARNING - 2026-04-11 14:16:09 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:16:09 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:16:09 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:16:09 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:16:09 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:16:09 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 14:16:09 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:16:09 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-04-11 14:16:13 - django.server - "GET /userLoginForm HTTP/1.1" 200 11483
+WARNING - 2026-04-11 14:16:13 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:16:13 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:16:13 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:16:13 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:16:13 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:16:13 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:16:23 - django.server - "POST /userLoginCheck HTTP/1.1" 200 8648
+WARNING - 2026-04-11 14:16:23 - django.server - "GET /assets/img/User.jpg HTTP/1.1" 404 1850
+WARNING - 2026-04-11 14:16:23 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:16:23 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:16:23 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:16:23 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:16:23 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:16:23 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:16:24 - django.server - "GET /prediction HTTP/1.1" 200 22571
+WARNING - 2026-04-11 14:16:24 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:16:24 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:16:24 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:16:24 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:16:24 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 14:16:24 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+INFO - 2026-04-11 14:16:37 - pill_system - Image uploaded successfully - File: apixaban 2.5 MG (2) - Copy - Copy.jpg, Size: 442830 bytes
+INFO - 2026-04-11 14:16:37 - pill_system - File type validation passed - File: apixaban 2.5 MG (2) - Copy - Copy.jpg, Type: jpg
+INFO - 2026-04-11 14:16:37 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\apixaban 2.5 MG (2) - Copy - Copy.jpg
+INFO - 2026-04-11 14:16:38 - pill_system - Image preprocessing started - File: apixaban 2.5 MG (2) - Copy - Copy.jpg
+INFO - 2026-04-11 14:16:38 - pill_system - Model prediction started - File: apixaban 2.5 MG (2) - Copy - Copy.jpg, Model: MobileNetV3Large
+INFO - 2026-04-11 14:16:38 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+INFO - 2026-04-11 14:16:38 - Users.utility.requirement - [CACHE] Loading model into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras
+INFO - 2026-04-11 14:16:42 - Users.utility.requirement - [CACHE] Model cached successfully
+INFO - 2026-04-11 14:16:42 - Users.utility.requirement - [CACHE] Loading metadata into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_metadata.json
+INFO - 2026-04-11 14:16:42 - Users.utility.requirement - [CACHE] Metadata cached successfully
+DEBUG - 2026-04-11 14:16:42 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-11 14:16:42 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\apixaban 2.5 MG (2) - Copy - Copy.jpg
+DEBUG - 2026-04-11 14:16:42 - Users.utility.requirement - [PREPROCESS] Original image size: (1024, 768)
+DEBUG - 2026-04-11 14:16:43 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-11 14:16:43 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0980, 0.7529]
+INFO - 2026-04-11 14:16:43 - pill_system - Image preprocessing completed - File: apixaban 2.5 MG (2) - Copy - Copy.jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-11 14:16:43 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-11 14:16:47 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-11 14:16:47 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-11 14:16:47 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.002194, max: 0.388346, mean: 0.050000, std: 0.090627
+INFO - 2026-04-11 14:16:47 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('apixaban 2.5 MG', 0.3883463144302368), ('sitagliptin 50 MG', 0.19522999227046967), ('eltrombopag 25 MG', 0.13004234433174133)]
+INFO - 2026-04-11 14:16:47 - Users.utility.requirement - [PREDICTION] Predicted: UNKNOWN TABLET
+INFO - 2026-04-11 14:16:47 - Users.utility.requirement - [PREDICTION] Confidence: 38.83% (Threshold: 50%)
+INFO - 2026-04-11 14:16:47 - Users.utility.requirement - [PREDICTION] Is Confident: False
+WARNING - 2026-04-11 14:16:47 - Users.utility.requirement - [SAFETY] Confidence too low (38.83%). Returning UNKNOWN.
+INFO - 2026-04-11 14:16:47 - pill_system - Image preprocessing completed - File: apixaban 2.5 MG (2) - Copy - Copy.jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-11 14:16:47 - pill_system - Prediction completed: UNKNOWN TABLET (Confidence: 38.83%), Top 3: [{'name': 'apixaban 2.5 MG', 'confidence': '38.83%'}, {'name': 'sitagliptin 50 MG', 'confidence': '19.52%'}, {'name': 'eltrombopag 25 MG', 'confidence': '13.00%'}], Processing time: N/Ams
+WARNING - 2026-04-11 14:16:47 - pill_system - Low confidence prediction - Pill: UNKNOWN TABLET, Confidence: 38.83%, Below threshold: 70%
+WARNING - 2026-04-11 14:16:47 - pill_system - Safety validation FAILED - Pill: UNKNOWN TABLET, Details: {'is_safe': False, 'warnings': ['Confidence 38.8% below threshold 70%'], 'errors': ['Could not identify tablet'], 'recommendations': []}
+INFO - 2026-04-11 14:16:47 - Users.views - [MEDICAL PREDICTION] Result: UNKNOWN TABLET
+INFO - 2026-04-11 14:16:47 - Users.views - [MEDICAL PREDICTION] Confidence: 38.83%
+INFO - 2026-04-11 14:16:47 - Users.views - [MEDICAL PREDICTION] Safety Check: False
+INFO - 2026-04-11 14:16:47 - Users.views - [MEDICAL PREDICTION] Validation: False
+WARNING - 2026-04-11 14:16:47 - Users.views - [MEDICAL WARNING] Confidence 38.8% below threshold 70%
+ERROR - 2026-04-11 14:16:47 - Users.views - [MEDICAL ERROR] Could not identify tablet
+INFO - 2026-04-11 14:16:47 - pill_system - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-11 14:16:47 - Users.views - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-11 14:16:47 - pill_system - CSV record written - File: pill_predictions.csv, Pill: UNKNOWN TABLET
+INFO - 2026-04-11 14:16:47 - django.server - "POST /prediction HTTP/1.1" 200 23229
+WARNING - 2026-04-11 14:16:47 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:16:47 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:16:47 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:16:47 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:16:47 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:16:47 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:16:57 - pill_system - Image uploaded successfully - File: apixaban 2.5 MG (1) - Copy - Copy.jpg, Size: 12674 bytes
+INFO - 2026-04-11 14:16:57 - pill_system - File type validation passed - File: apixaban 2.5 MG (1) - Copy - Copy.jpg, Type: jpg
+INFO - 2026-04-11 14:16:57 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\apixaban 2.5 MG (1) - Copy - Copy.jpg
+INFO - 2026-04-11 14:16:57 - pill_system - Image preprocessing started - File: apixaban 2.5 MG (1) - Copy - Copy.jpg
+INFO - 2026-04-11 14:16:57 - pill_system - Model prediction started - File: apixaban 2.5 MG (1) - Copy - Copy.jpg, Model: MobileNetV3Large
+INFO - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\apixaban 2.5 MG (1) - Copy - Copy.jpg
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [PREPROCESS] Original image size: (224, 224)
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.7569]
+INFO - 2026-04-11 14:16:57 - pill_system - Image preprocessing completed - File: apixaban 2.5 MG (1) - Copy - Copy.jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.001244, max: 0.605480, mean: 0.050000, std: 0.129321
+INFO - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('apixaban 2.5 MG', 0.6054801940917969), ('pantoprazole 40 MG', 0.08487681299448013), ('carvedilol 3.125 MG', 0.06851357966661453)]
+INFO - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Predicted: apixaban 2.5 MG
+INFO - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Confidence: 60.55% (Threshold: 50%)
+INFO - 2026-04-11 14:16:57 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-11 14:16:57 - Users.utility.requirement - [UNLABELED] Checking if apixaban 2.5 MG is an unlabeled pill...
+DEBUG - 2026-04-11 14:16:57 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-11 14:16:57 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for apixaban 2.5 MG
+INFO - 2026-04-11 14:16:58 - pill_system - Image preprocessing completed - File: apixaban 2.5 MG (1) - Copy - Copy.jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-11 14:16:58 - pill_system - Prediction completed: apixaban 2.5 MG (Confidence: 60.55%), Top 3: [{'name': 'apixaban 2.5 MG', 'confidence': '60.55%'}, {'name': 'pantoprazole 40 MG', 'confidence': '8.49%'}, {'name': 'carvedilol 3.125 MG', 'confidence': '6.85%'}], Processing time: N/Ams
+WARNING - 2026-04-11 14:16:58 - pill_system - Low confidence prediction - Pill: apixaban 2.5 MG, Confidence: 60.55%, Below threshold: 70%
+INFO - 2026-04-11 14:16:58 - pill_system - Safety validation PASSED - Pill: apixaban 2.5 MG, Details: {'is_safe': True, 'warnings': ['Confidence 60.5% below threshold 70%'], 'errors': [], 'recommendations': []}
+INFO - 2026-04-11 14:16:58 - Users.views - [MEDICAL PREDICTION] Result: apixaban 2.5 MG
+INFO - 2026-04-11 14:16:58 - Users.views - [MEDICAL PREDICTION] Confidence: 60.55%
+INFO - 2026-04-11 14:16:58 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-11 14:16:58 - Users.views - [MEDICAL PREDICTION] Validation: True
+WARNING - 2026-04-11 14:16:58 - Users.views - [MEDICAL WARNING] Confidence 60.5% below threshold 70%
+INFO - 2026-04-11 14:16:58 - pill_system - Prediction recorded to CSV: apixaban 2.5 MG
+INFO - 2026-04-11 14:16:58 - Users.views - Prediction recorded to CSV: apixaban 2.5 MG
+INFO - 2026-04-11 14:16:58 - pill_system - CSV record written - File: pill_predictions.csv, Pill: apixaban 2.5 MG
+INFO - 2026-04-11 14:16:58 - django.server - "POST /prediction HTTP/1.1" 200 23724
+WARNING - 2026-04-11 14:16:58 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:16:58 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:16:58 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:16:58 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:16:58 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:16:58 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:17:13 - django.server - "POST /api/ask_advisor/ HTTP/1.1" 200 233
+INFO - 2026-04-11 14:27:28 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO - 2026-04-11 14:27:37 - django.server - "GET / HTTP/1.1" 200 11111
+WARNING - 2026-04-11 14:27:37 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:27:37 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:27:37 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:27:37 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:27:37 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:27:37 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 14:27:37 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:27:37 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-04-11 14:27:39 - django.server - "GET /userLoginForm HTTP/1.1" 200 11483
+WARNING - 2026-04-11 14:27:39 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:27:39 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:27:39 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:27:39 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:27:39 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:27:39 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:27:43 - django.server - "GET /adminLoginForm HTTP/1.1" 200 11490
+WARNING - 2026-04-11 14:27:43 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:27:43 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:27:43 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:27:43 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:27:43 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:27:43 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:27:45 - django.server - "GET /userRegisterForm HTTP/1.1" 200 13341
+WARNING - 2026-04-11 14:27:45 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:27:45 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:27:45 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:27:45 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:27:45 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:27:45 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:27:51 - django.server - "GET / HTTP/1.1" 200 11111
+WARNING - 2026-04-11 14:27:51 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:27:51 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:27:51 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:27:51 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:27:51 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:27:51 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:45:15 - django.server - "GET / HTTP/1.1" 200 11111
+WARNING - 2026-04-11 14:45:15 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:45:15 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:45:15 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:45:15 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:45:15 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:45:15 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 14:45:15 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:45:15 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-04-11 14:45:17 - django.server - "GET /userLoginForm HTTP/1.1" 200 11483
+WARNING - 2026-04-11 14:45:17 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:45:17 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:45:17 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:45:17 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:45:17 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:45:17 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:45:24 - django.server - "POST /userLoginCheck HTTP/1.1" 200 8648
+WARNING - 2026-04-11 14:45:24 - django.server - "GET /assets/img/User.jpg HTTP/1.1" 404 1850
+WARNING - 2026-04-11 14:45:24 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:45:24 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:45:24 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:45:24 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:45:24 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:45:24 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:45:25 - django.server - "GET /prediction HTTP/1.1" 200 22571
+WARNING - 2026-04-11 14:45:25 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:45:25 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:45:25 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:45:25 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:45:25 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:45:25 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:45:32 - pill_system - Image uploaded successfully - File: 0002-3228_0_1.jpg, Size: 9726 bytes
+INFO - 2026-04-11 14:45:32 - pill_system - File type validation passed - File: 0002-3228_0_1.jpg, Type: jpg
+INFO - 2026-04-11 14:45:32 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\0002-3228_0_1.jpg
+INFO - 2026-04-11 14:45:32 - pill_system - Image preprocessing started - File: 0002-3228_0_1.jpg
+INFO - 2026-04-11 14:45:32 - pill_system - Model prediction started - File: 0002-3228_0_1.jpg, Model: MobileNetV3Large
+INFO - 2026-04-11 14:45:32 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+INFO - 2026-04-11 14:45:32 - Users.utility.requirement - [CACHE] Loading model into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras
+INFO - 2026-04-11 14:45:35 - Users.utility.requirement - [CACHE] Model cached successfully
+INFO - 2026-04-11 14:45:35 - Users.utility.requirement - [CACHE] Loading metadata into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_metadata.json
+INFO - 2026-04-11 14:45:35 - Users.utility.requirement - [CACHE] Metadata cached successfully
+DEBUG - 2026-04-11 14:45:35 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-11 14:45:35 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\0002-3228_0_1.jpg
+DEBUG - 2026-04-11 14:45:35 - Users.utility.requirement - [PREPROCESS] Original image size: (224, 224)
+DEBUG - 2026-04-11 14:45:35 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-11 14:45:35 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.8392]
+INFO - 2026-04-11 14:45:35 - pill_system - Image preprocessing completed - File: 0002-3228_0_1.jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-11 14:45:35 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-11 14:45:39 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-11 14:45:39 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-11 14:45:39 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.001344, max: 0.195659, mean: 0.050000, std: 0.062911
+INFO - 2026-04-11 14:45:39 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('duloxetine 30 MG', 0.1956588327884674), ('Atomoxetine 25 MG', 0.18704353272914886), ('Ramipril 5 MG', 0.13447362184524536)]
+INFO - 2026-04-11 14:45:39 - Users.utility.requirement - [PREDICTION] Predicted: UNKNOWN TABLET
+INFO - 2026-04-11 14:45:39 - Users.utility.requirement - [PREDICTION] Confidence: 19.57% (Threshold: 50%)
+INFO - 2026-04-11 14:45:39 - Users.utility.requirement - [PREDICTION] Is Confident: False
+WARNING - 2026-04-11 14:45:39 - Users.utility.requirement - [SAFETY] Confidence too low (19.57%). Returning UNKNOWN.
+INFO - 2026-04-11 14:45:39 - pill_system - Image preprocessing completed - File: 0002-3228_0_1.jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-11 14:45:39 - pill_system - Prediction completed: UNKNOWN TABLET (Confidence: 19.57%), Top 3: [{'name': 'duloxetine 30 MG', 'confidence': '19.57%'}, {'name': 'Atomoxetine 25 MG', 'confidence': '18.70%'}, {'name': 'Ramipril 5 MG', 'confidence': '13.45%'}], Processing time: N/Ams
+WARNING - 2026-04-11 14:45:39 - pill_system - Low confidence prediction - Pill: UNKNOWN TABLET, Confidence: 19.57%, Below threshold: 70%
+WARNING - 2026-04-11 14:45:39 - pill_system - Safety validation FAILED - Pill: UNKNOWN TABLET, Details: {'is_safe': False, 'warnings': ['Confidence 19.6% below threshold 70%'], 'errors': ['Could not identify tablet'], 'recommendations': []}
+INFO - 2026-04-11 14:45:39 - Users.views - [MEDICAL PREDICTION] Result: UNKNOWN TABLET
+INFO - 2026-04-11 14:45:39 - Users.views - [MEDICAL PREDICTION] Confidence: 19.57%
+INFO - 2026-04-11 14:45:39 - Users.views - [MEDICAL PREDICTION] Safety Check: False
+INFO - 2026-04-11 14:45:39 - Users.views - [MEDICAL PREDICTION] Validation: False
+WARNING - 2026-04-11 14:45:39 - Users.views - [MEDICAL WARNING] Confidence 19.6% below threshold 70%
+ERROR - 2026-04-11 14:45:39 - Users.views - [MEDICAL ERROR] Could not identify tablet
+INFO - 2026-04-11 14:45:39 - pill_system - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-11 14:45:39 - Users.views - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-11 14:45:39 - pill_system - CSV record written - File: pill_predictions.csv, Pill: UNKNOWN TABLET
+INFO - 2026-04-11 14:45:39 - django.server - "POST /prediction HTTP/1.1" 200 23229
+WARNING - 2026-04-11 14:45:40 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:45:40 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 14:45:40 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:45:40 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:45:40 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:45:40 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+INFO - 2026-04-11 14:47:05 - django.utils.autoreload - Watching for file changes with StatReloader
+INFO - 2026-04-11 14:47:21 - django.server - "GET / HTTP/1.1" 200 11111
+WARNING - 2026-04-11 14:47:21 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:47:21 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:47:21 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:47:21 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:47:21 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:47:21 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 14:47:21 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:47:21 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-04-11 14:47:23 - django.server - "GET /userLoginForm HTTP/1.1" 200 11483
+WARNING - 2026-04-11 14:47:23 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:47:23 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:47:23 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:47:23 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:47:23 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:47:23 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:47:30 - django.server - "POST /userLoginCheck HTTP/1.1" 200 8648
+WARNING - 2026-04-11 14:47:30 - django.server - "GET /assets/img/User.jpg HTTP/1.1" 404 1850
+WARNING - 2026-04-11 14:47:30 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:47:30 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:47:30 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:47:30 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:47:30 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:47:30 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:47:31 - django.server - "GET /prediction HTTP/1.1" 200 22571
+WARNING - 2026-04-11 14:47:31 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 14:47:31 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 14:47:31 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 14:47:31 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 14:47:31 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 14:47:31 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 14:47:45 - django.server - "POST /api/ask_advisor/ HTTP/1.1" 200 267
+INFO - 2026-04-11 15:51:29 - django.server - "GET / HTTP/1.1" 200 11111
+WARNING - 2026-04-11 15:51:30 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 15:51:30 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 15:51:30 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 15:51:30 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 15:51:30 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 15:51:30 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 15:51:30 - django.server - "GET /assets/img/video-bg.jpg HTTP/1.1" 404 1862
+WARNING - 2026-04-11 15:51:30 - django.server - "GET /assets/img/favicon.png HTTP/1.1" 404 1859
+INFO - 2026-04-11 15:52:32 - django.server - "GET /userRegisterForm HTTP/1.1" 200 13341
+WARNING - 2026-04-11 15:52:33 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 15:52:33 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 15:52:33 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 15:52:33 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 15:52:33 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 15:52:33 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 15:52:36 - django.server - "GET /userLoginForm HTTP/1.1" 200 11483
+WARNING - 2026-04-11 15:52:37 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 15:52:37 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 15:52:37 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 15:52:37 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 15:52:37 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 15:52:37 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 15:52:49 - django.server - "POST /userLoginCheck HTTP/1.1" 200 8648
+WARNING - 2026-04-11 15:52:49 - django.server - "GET /assets/img/User.jpg HTTP/1.1" 404 1850
+WARNING - 2026-04-11 15:52:49 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 15:52:49 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 15:52:49 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 15:52:49 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 15:52:49 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 15:52:49 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 15:52:54 - django.server - "GET /prediction HTTP/1.1" 200 22571
+WARNING - 2026-04-11 15:52:54 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 15:52:54 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 15:52:54 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 15:52:54 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 15:52:54 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 15:52:54 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 15:53:11 - pill_system - Image uploaded successfully - File: Amoxicillin 500 MG (2).jpg, Size: 495531 bytes
+INFO - 2026-04-11 15:53:11 - pill_system - File type validation passed - File: Amoxicillin 500 MG (2).jpg, Type: jpg
+INFO - 2026-04-11 15:53:11 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Amoxicillin 500 MG (2).jpg
+INFO - 2026-04-11 15:53:11 - pill_system - Image preprocessing started - File: Amoxicillin 500 MG (2).jpg
+INFO - 2026-04-11 15:53:11 - pill_system - Model prediction started - File: Amoxicillin 500 MG (2).jpg, Model: MobileNetV3Large
+INFO - 2026-04-11 15:53:11 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+INFO - 2026-04-11 15:53:11 - Users.utility.requirement - [CACHE] Loading model into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras
+INFO - 2026-04-11 15:53:13 - Users.utility.requirement - [CACHE] Model cached successfully
+INFO - 2026-04-11 15:53:13 - Users.utility.requirement - [CACHE] Loading metadata into cache: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_metadata.json
+INFO - 2026-04-11 15:53:13 - Users.utility.requirement - [CACHE] Metadata cached successfully
+DEBUG - 2026-04-11 15:53:13 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-11 15:53:13 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Amoxicillin 500 MG (2).jpg
+DEBUG - 2026-04-11 15:53:13 - Users.utility.requirement - [PREPROCESS] Original image size: (1024, 768)
+DEBUG - 2026-04-11 15:53:13 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-11 15:53:13 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.9333]
+INFO - 2026-04-11 15:53:13 - pill_system - Image preprocessing completed - File: Amoxicillin 500 MG (2).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-11 15:53:13 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-11 15:53:16 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-11 15:53:16 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-11 15:53:16 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.000590, max: 0.733689, mean: 0.050000, std: 0.158169
+INFO - 2026-04-11 15:53:16 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Amoxicillin 500 MG', 0.7336888909339905), ('Atomoxetine 25 MG', 0.08455120772123337), ('duloxetine 30 MG', 0.058531709015369415)]
+INFO - 2026-04-11 15:53:16 - Users.utility.requirement - [PREDICTION] Predicted: Amoxicillin 500 MG
+INFO - 2026-04-11 15:53:16 - Users.utility.requirement - [PREDICTION] Confidence: 73.37% (Threshold: 50%)
+INFO - 2026-04-11 15:53:16 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-11 15:53:16 - Users.utility.requirement - [UNLABELED] Checking if Amoxicillin 500 MG is an unlabeled pill...
+DEBUG - 2026-04-11 15:53:16 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-11 15:53:16 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for Amoxicillin 500 MG
+INFO - 2026-04-11 15:53:16 - pill_system - Image preprocessing completed - File: Amoxicillin 500 MG (2).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-11 15:53:16 - pill_system - Prediction completed: Amoxicillin 500 MG (Confidence: 73.37%), Top 3: [{'name': 'Amoxicillin 500 MG', 'confidence': '73.37%'}, {'name': 'Atomoxetine 25 MG', 'confidence': '8.46%'}, {'name': 'duloxetine 30 MG', 'confidence': '5.85%'}], Processing time: N/Ams
+INFO - 2026-04-11 15:53:16 - pill_system - Safety validation PASSED - Pill: Amoxicillin 500 MG, Details: {'is_safe': True, 'warnings': [], 'errors': [], 'recommendations': []}
+INFO - 2026-04-11 15:53:16 - Users.views - [MEDICAL PREDICTION] Result: Amoxicillin 500 MG
+INFO - 2026-04-11 15:53:16 - Users.views - [MEDICAL PREDICTION] Confidence: 73.37%
+INFO - 2026-04-11 15:53:16 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-11 15:53:16 - Users.views - [MEDICAL PREDICTION] Validation: True
+INFO - 2026-04-11 15:53:16 - pill_system - Prediction recorded to CSV: Amoxicillin 500 MG
+INFO - 2026-04-11 15:53:16 - Users.views - Prediction recorded to CSV: Amoxicillin 500 MG
+INFO - 2026-04-11 15:53:16 - pill_system - CSV record written - File: pill_predictions.csv, Pill: Amoxicillin 500 MG
+INFO - 2026-04-11 15:53:16 - django.server - "POST /prediction HTTP/1.1" 200 24059
+WARNING - 2026-04-11 15:53:16 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 15:53:16 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 15:53:16 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 15:53:16 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 15:53:16 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+WARNING - 2026-04-11 15:53:16 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+INFO - 2026-04-11 15:53:39 - pill_system - Image uploaded successfully - File: 0002-3228_0_1.jpg, Size: 9726 bytes
+INFO - 2026-04-11 15:53:39 - pill_system - File type validation passed - File: 0002-3228_0_1.jpg, Type: jpg
+INFO - 2026-04-11 15:53:39 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\0002-3228_0_1.jpg
+INFO - 2026-04-11 15:53:39 - pill_system - Image preprocessing started - File: 0002-3228_0_1.jpg
+INFO - 2026-04-11 15:53:39 - pill_system - Model prediction started - File: 0002-3228_0_1.jpg, Model: MobileNetV3Large
+INFO - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-11 15:53:39 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-11 15:53:39 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\0002-3228_0_1.jpg
+DEBUG - 2026-04-11 15:53:39 - Users.utility.requirement - [PREPROCESS] Original image size: (224, 224)
+DEBUG - 2026-04-11 15:53:39 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-11 15:53:39 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.8392]
+INFO - 2026-04-11 15:53:39 - pill_system - Image preprocessing completed - File: 0002-3228_0_1.jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.001344, max: 0.195659, mean: 0.050000, std: 0.062911
+INFO - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('duloxetine 30 MG', 0.1956588327884674), ('Atomoxetine 25 MG', 0.18704353272914886), ('Ramipril 5 MG', 0.13447362184524536)]
+INFO - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Predicted: UNKNOWN TABLET
+INFO - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Confidence: 19.57% (Threshold: 50%)
+INFO - 2026-04-11 15:53:39 - Users.utility.requirement - [PREDICTION] Is Confident: False
+WARNING - 2026-04-11 15:53:39 - Users.utility.requirement - [SAFETY] Confidence too low (19.57%). Returning UNKNOWN.
+INFO - 2026-04-11 15:53:39 - pill_system - Image preprocessing completed - File: 0002-3228_0_1.jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-11 15:53:39 - pill_system - Prediction completed: UNKNOWN TABLET (Confidence: 19.57%), Top 3: [{'name': 'duloxetine 30 MG', 'confidence': '19.57%'}, {'name': 'Atomoxetine 25 MG', 'confidence': '18.70%'}, {'name': 'Ramipril 5 MG', 'confidence': '13.45%'}], Processing time: N/Ams
+WARNING - 2026-04-11 15:53:39 - pill_system - Low confidence prediction - Pill: UNKNOWN TABLET, Confidence: 19.57%, Below threshold: 70%
+WARNING - 2026-04-11 15:53:39 - pill_system - Safety validation FAILED - Pill: UNKNOWN TABLET, Details: {'is_safe': False, 'warnings': ['Confidence 19.6% below threshold 70%'], 'errors': ['Could not identify tablet'], 'recommendations': []}
+INFO - 2026-04-11 15:53:39 - Users.views - [MEDICAL PREDICTION] Result: UNKNOWN TABLET
+INFO - 2026-04-11 15:53:39 - Users.views - [MEDICAL PREDICTION] Confidence: 19.57%
+INFO - 2026-04-11 15:53:39 - Users.views - [MEDICAL PREDICTION] Safety Check: False
+INFO - 2026-04-11 15:53:39 - Users.views - [MEDICAL PREDICTION] Validation: False
+WARNING - 2026-04-11 15:53:39 - Users.views - [MEDICAL WARNING] Confidence 19.6% below threshold 70%
+ERROR - 2026-04-11 15:53:39 - Users.views - [MEDICAL ERROR] Could not identify tablet
+INFO - 2026-04-11 15:53:39 - pill_system - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-11 15:53:39 - Users.views - Prediction recorded to CSV: UNKNOWN TABLET
+INFO - 2026-04-11 15:53:39 - pill_system - CSV record written - File: pill_predictions.csv, Pill: UNKNOWN TABLET
+INFO - 2026-04-11 15:53:39 - django.server - "POST /prediction HTTP/1.1" 200 23229
+WARNING - 2026-04-11 15:53:39 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 15:53:39 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 15:53:39 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 15:53:39 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 15:53:39 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 15:53:39 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 15:54:16 - pill_system - Image uploaded successfully - File: Amoxicillin 500 MG (2).jpg, Size: 495531 bytes
+INFO - 2026-04-11 15:54:16 - pill_system - File type validation passed - File: Amoxicillin 500 MG (2).jpg, Type: jpg
+INFO - 2026-04-11 15:54:16 - Users.views - [MEDICAL PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Amoxicillin 500 MG (2).jpg
+INFO - 2026-04-11 15:54:16 - pill_system - Image preprocessing started - File: Amoxicillin 500 MG (2).jpg
+INFO - 2026-04-11 15:54:16 - pill_system - Model prediction started - File: Amoxicillin 500 MG (2).jpg, Model: MobileNetV3Large
+INFO - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Loading model from C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras...
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [CACHE] Using cached model
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [CACHE] Using cached metadata
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Loaded 20 classes from metadata
+INFO - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Processing image: C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\Amoxicillin 500 MG (2).jpg
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [PREPROCESS] Original image size: (1024, 768)
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [PREPROCESS] Array shape before batch: (224, 224, 3), dtype: float32
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [PREPROCESS] Final array shape: (1, 224, 224, 3), dtype: float32, range: [0.0000, 0.9333]
+INFO - 2026-04-11 15:54:16 - pill_system - Image preprocessing completed - File: Amoxicillin 500 MG (2).jpg, Steps: load_as_rgb, resize_to_224x224, normalize_0_to_1
+INFO - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Analyzing image with CNN...
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Model output shape: (1, 20), dtype: float32
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Probability sum: 1.000000
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Prob stats - min: 0.000590, max: 0.733689, mean: 0.050000, std: 0.158169
+INFO - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Top 3 candidates: [('Amoxicillin 500 MG', 0.7336888909339905), ('Atomoxetine 25 MG', 0.08455120772123337), ('duloxetine 30 MG', 0.058531709015369415)]
+INFO - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Predicted: Amoxicillin 500 MG
+INFO - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Confidence: 73.37% (Threshold: 50%)
+INFO - 2026-04-11 15:54:16 - Users.utility.requirement - [PREDICTION] Is Confident: True
+INFO - 2026-04-11 15:54:16 - Users.utility.requirement - [UNLABELED] Checking if Amoxicillin 500 MG is an unlabeled pill...
+DEBUG - 2026-04-11 15:54:16 - Users.utility.requirement - [UNLABELED] Unlabeled pill detection enabled
+INFO - 2026-04-11 15:54:16 - Users.utility.requirement - [SAFETY] Medical data VERIFIED for Amoxicillin 500 MG
+INFO - 2026-04-11 15:54:16 - pill_system - Image preprocessing completed - File: Amoxicillin 500 MG (2).jpg, Steps: resize, normalization, augmentation
+INFO - 2026-04-11 15:54:16 - pill_system - Prediction completed: Amoxicillin 500 MG (Confidence: 73.37%), Top 3: [{'name': 'Amoxicillin 500 MG', 'confidence': '73.37%'}, {'name': 'Atomoxetine 25 MG', 'confidence': '8.46%'}, {'name': 'duloxetine 30 MG', 'confidence': '5.85%'}], Processing time: N/Ams
+INFO - 2026-04-11 15:54:16 - pill_system - Safety validation PASSED - Pill: Amoxicillin 500 MG, Details: {'is_safe': True, 'warnings': [], 'errors': [], 'recommendations': []}
+INFO - 2026-04-11 15:54:16 - Users.views - [MEDICAL PREDICTION] Result: Amoxicillin 500 MG
+INFO - 2026-04-11 15:54:16 - Users.views - [MEDICAL PREDICTION] Confidence: 73.37%
+INFO - 2026-04-11 15:54:16 - Users.views - [MEDICAL PREDICTION] Safety Check: True
+INFO - 2026-04-11 15:54:16 - Users.views - [MEDICAL PREDICTION] Validation: True
+INFO - 2026-04-11 15:54:16 - pill_system - Prediction recorded to CSV: Amoxicillin 500 MG
+INFO - 2026-04-11 15:54:16 - Users.views - Prediction recorded to CSV: Amoxicillin 500 MG
+INFO - 2026-04-11 15:54:16 - pill_system - CSV record written - File: pill_predictions.csv, Pill: Amoxicillin 500 MG
+INFO - 2026-04-11 15:54:16 - django.server - "POST /prediction HTTP/1.1" 200 24059
+WARNING - 2026-04-11 15:54:16 - django.server - "GET /assets/js/owl.carousel.js HTTP/1.1" 404 1868
+WARNING - 2026-04-11 15:54:16 - django.server - "GET /assets/js/jquery-3.3.1.min.js HTTP/1.1" 404 1880
+WARNING - 2026-04-11 15:54:16 - django.server - "GET /assets/js/jquery.nice-select.min.js HTTP/1.1" 404 1898
+WARNING - 2026-04-11 15:54:16 - django.server - "GET /assets/js/datepicker.js HTTP/1.1" 404 1862
+WARNING - 2026-04-11 15:54:16 - django.server - "GET /assets/js/magnific-popup.js HTTP/1.1" 404 1874
+WARNING - 2026-04-11 15:54:16 - django.server - "GET /assets/js/custom.js HTTP/1.1" 404 1850
+INFO - 2026-04-11 15:54:32 - django.server - "POST /api/ask_advisor/ HTTP/1.1" 200 287
+INFO - 2026-04-11 15:55:38 - django.server - "POST /api/ask_advisor/ HTTP/1.1" 200 442
+INFO - 2026-04-11 15:55:46 - django.server - "POST /api/ask_advisor/ HTTP/1.1" 200 442
+INFO - 2026-04-11 15:55:49 - django.server - "POST /api/ask_advisor/ HTTP/1.1" 200 442

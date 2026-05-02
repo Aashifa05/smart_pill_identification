@@ -1,0 +1,123 @@
+=== MODEL FILES (outside models/production) ===
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_95.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_anti_overfit.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_enhanced.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_enhanced_best.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_best.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_generalization.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_working.keras
+
+=== CHECKPOINTS / TENSORFLOW ARTIFACTS ===
+
+=== MODELS IN media/ ===
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_95.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_anti_overfit.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_enhanced.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_enhanced_best.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_best.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_feature_learning_final_best.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_generalization.keras
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\model_working.keras
+
+=== PYTHON CACHE & TEMP FILES ===
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\__pycache__
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Admin\__pycache__
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Admin\migrations\__pycache__
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Detection_and_Analysis_of_Pill\__pycache__
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\__pycache__
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\migrations\__pycache__
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\utility\__pycache__
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Admin\migrations\__pycache__\__init__.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Admin\__pycache__\admin.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Admin\__pycache__\apps.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Admin\__pycache__\models.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Admin\__pycache__\views.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Admin\__pycache__\__init__.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Detection_and_Analysis_of_Pill\__pycache__\settings.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Detection_and_Analysis_of_Pill\__pycache__\urls.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Detection_and_Analysis_of_Pill\__pycache__\views.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Detection_and_Analysis_of_Pill\__pycache__\wsgi.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Detection_and_Analysis_of_Pill\__pycache__\__init__.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\migrations\__pycache__\0001_initial.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\migrations\__pycache__\0002_pillinfo.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\migrations\__pycache__\0003_pillinfo_consumption_time_pillinfo_food_relation.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\migrations\__pycache__\__init__.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\utility\__pycache__\medical_safety_module.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\utility\__pycache__\requirement.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\utility\__pycache__\unlabeled_pill_detector.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\__pycache__\admin.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\__pycache__\apps.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\__pycache__\models.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\__pycache__\speech_recognition_handler.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\__pycache__\views.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\Users\__pycache__\__init__.cpython-311.pyc
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\__pycache__\medical_advisor.cpython-311.pyc
+
+=== LOGS & TEMP ===
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\training.log
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\training_output.log
+
+=== CSV FILES (metrics & logs) ===
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\class_mapping.csv
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\Testing_set.csv
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pilldata\Training_set.csv
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\media\pill_predictions.csv
+
+=== MARKDOWN FILES (Admin/) ===
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\BEFORE_AFTER_COMPARISON.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\BEFORE_AFTER_DETAILED.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\CLEANUP_EXECUTION.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\CLEANUP_PLAN.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\DIRECTORY_TREE.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\FINAL_CLEANUP_REPORT.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\PILL_IMAGE_LINKING_ARCHITECTURE.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\PILL_LINKING_CODE_WALKTHROUGH.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\PILL_LINKING_DOCUMENTATION_INDEX.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\PILL_LINKING_EXECUTIVE_SUMMARY.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\PILL_LINKING_QUICK_REFERENCE.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\PILL_LINKING_VISUAL_DIAGRAMS.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\PILL_LINKING_VISUAL_SUMMARY.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\PRODUCTION_MODEL_GUIDE.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\QUICK_REFERENCE_CARD.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\QUICK_START_GUIDE.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\REORGANIZATION_SUMMARY.md
+C:\Users\THINKBOOK\OneDrive\Desktop\pill_mediadivce_with_voice\pill_project_mediadvise\pill_project\Admin\SESSION_COMPLETION_SUMMARY.md
+
+=== SEARCH for references to model filenames and CSVs in Django/py files ===
+
+-- Pattern: model_feature_learning --
+
+-- Pattern: pill_predictions.csv --
+
+-- Pattern: training_logs.csv --
+
+-- Pattern: class_mapping.csv --
+
+-- Pattern: metrics.csv --
+
+-- Pattern: evaluation_results.csv --
+
+-- Pattern: performance_summary.csv --
+
+=== END OF SCAN ===
+
+-- Pattern: model_feature_learning --
+
+-- Pattern: pill_predictions.csv --
+
+-- Pattern: training_logs.csv --
+
+-- Pattern: class_mapping.csv --
+
+-- Pattern: metrics.csv --
+
+-- Pattern: evaluation_results.csv --
+
+-- Pattern: performance_summary.csv --
+
+=== END OF SCAN ===
